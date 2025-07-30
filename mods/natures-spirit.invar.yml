@@ -1,0 +1,16 @@
+id: natures-spirit
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/WBvnqHfV/versions/sUhwOqbY/natures_spirit-2.2.4-1.21.1.jar
+  file_name: natures_spirit-2.2.4-1.21.1.jar
+  file_size: 18627118
+  version_id: sUhwOqbY
+  hashes:
+    sha1: '1ea3e2578f9d164fe827d08c71455bafd3466ba0'
+    sha512: a5a24ddb3f727a970b2218e7399949e717efe8fc4cfc2f11fc5213fc8743a3575a33fbed18eafaba1afc81781111df6f04c911246633361ba1a088bb7fd9a23f

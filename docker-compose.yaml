@@ -8,6 +8,7 @@ services:
     environment:
       VIEW_DISTANCE: 8
       MAX_PLAYERS: 8
+      SEED: "-6903841338948562863"
       MEMORY: '20G'
       EULA: 'TRUE'
       ENABLE_AUTOPAUSE: false
