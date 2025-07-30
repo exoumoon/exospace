@@ -1,0 +1,16 @@
+id: cull-leaves
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/GNxdLCoP/versions/W9HrxM8v/cullleaves-neoforge-4.0.1.jar
+  file_name: cullleaves-neoforge-4.0.1.jar
+  file_size: 44926
+  version_id: W9HrxM8v
+  hashes:
+    sha1: '4aba807355641a28963243975c9ee0f471468bb4'
+    sha512: '5bbe92772ffc697055a68bf1221f9e5e2072b0b72870966d3bff58c2ec4bfa2e7434adc6a348332bf26bed84562e962a2e6b78a036d45ffb19811a9640a4082c'

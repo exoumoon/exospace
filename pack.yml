@@ -5,9 +5,17 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - minecraft
   - forge
+  - minecraft
 settings:
   vcs_mode: track_components
   backup_mode: manual
-local_components: []
+local_components:
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/fml.toml
+  category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-client.toml
+  category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-common.toml
+  category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-server.toml
+  category: config

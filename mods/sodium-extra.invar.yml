@@ -1,0 +1,16 @@
+id: sodium-extra
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar
+  file_name: sodium-extra-neoforge-0.6.0+mc1.21.1.jar
+  file_size: 367047
+  version_id: pFmw1eci
+  hashes:
+    sha1: '7473bb42753902c639294821af13e9cd9ee735da'
+    sha512: '6f7383ef3f4b572c76d3371a7441bc3d625db9d404cf61b249fab018bc3ffd1fa82e735ec21916df3f4072f0927dad3673efbc40bf8d11846c3d6fecc9329bb7'
