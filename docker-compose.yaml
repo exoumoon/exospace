@@ -1,0 +1,37 @@
+services:
+  server:
+    hostname: exospace_server
+    image: itzg/minecraft-server:java21
+    container_name: exospace_server
+    ports:
+    - '25565:25565'
+    environment:
+      VIEW_DISTANCE: 8
+      MAX_PLAYERS: 8
+      MEMORY: '20G'
+      EULA: 'TRUE'
+      ENABLE_AUTOPAUSE: false
+      ONLINE_MODE: false
+      RCON_CMDS_FIRST_CONNECT: |
+        /whitelist on
+        /whitelist add mxxntype
+        /op mxxntype
+      MODE: survival
+      DIFFICULTY: hard
+      NEOFORGE_VERSION: '21.1.194'
+      MOTD: abominatiogus
+      TYPE: MODRINTH
+      USE_AIKAR_FLAGS: true
+      ALLOW_FLIGHT: true
+      ICON: https://avatars.githubusercontent.com/u/175053991?s=200&v=4
+      VERSION: '1.21.1'
+      MODRINTH_MODPACK: /data/modpack.mrpack
+    restart: unless-stopped
+    volumes:
+    - source: server
+      target: /data
+      type: bind
+    - source: './exospace.mrpack'
+      target: /data/modpack.mrpack
+      type: bind
+      read_only: true
