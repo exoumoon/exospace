@@ -1,0 +1,16 @@
+id: yungs-better-dungeons
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/o1C1Dkj5/versions/D6aZn0Em/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar
+  file_name: YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar
+  file_size: 782160
+  version_id: D6aZn0Em
+  hashes:
+    sha1: '73a660c13063450e555e5e2c015ae24d606b32b4'
+    sha512: '40513bacd13fa9860abcab507b1fc09dc51649af4b615ce466e0ec361557f02d35e6e44bea1cc17cb4120805f862aad01394eb185f46611e7be63dfd97f272df'

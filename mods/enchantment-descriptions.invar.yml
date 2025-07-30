@@ -1,0 +1,16 @@
+id: enchantment-descriptions
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/UVtY3ZAC/versions/pNpo2TdS/enchdesc-neoforge-1.21.1-21.1.7.jar
+  file_name: enchdesc-neoforge-1.21.1-21.1.7.jar
+  file_size: 78694
+  version_id: pNpo2TdS
+  hashes:
+    sha1: '82119b6b25258bf16399a175a952e06cd9169682'
+    sha512: '0a7e582189a5946c1f813e66ee54f887e33576868c9752ad0cdc25707599cf00670ae87b7e4d26711d541becc23524bff4c5ffd6cf87afcb690e9131222d664d'

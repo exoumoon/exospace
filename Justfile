@@ -10,6 +10,7 @@ refresh:
 
 # Start the server container.
 start:
+    invar pack export
     invar server start
     docker compose logs --follow
 

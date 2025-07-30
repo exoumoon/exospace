@@ -1,0 +1,16 @@
+id: natures-melody
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/rWVjvEgI/versions/AweiRDDv/natures-melody-1.21-v1.1.2.jar
+  file_name: natures-melody-1.21-v1.1.2.jar
+  file_size: 20181750
+  version_id: AweiRDDv
+  hashes:
+    sha1: d5ab31089a59fd3a49b3caf248b49e8a378bc6c6
+    sha512: c4c92b201710e3c94e5bcb796dedd980b25a98514e7821be2a38d33a5f458cb767c3eb9a5740f8434c426fe8433aa6e48f9dc06532d716adf70f0649d34178a5

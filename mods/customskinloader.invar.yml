@@ -1,0 +1,16 @@
+id: customskinloader
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/idMHQ4n2/versions/7IAUBuzk/CustomSkinLoader_ForgeV3-14.24.jar
+  file_name: CustomSkinLoader_ForgeV3-14.24.jar
+  file_size: 189198
+  version_id: '7IAUBuzk'
+  hashes:
+    sha1: '7175bc8e0afddf204112f68270499f501ed44a20'
+    sha512: '6e8b0c6bfa54cd93d8095cc1ccbe929c5c99ac03f4a905be48ebdfa6f048abe3c0948fb3f840cf6c32432592ad782a8dc5d6f126a7a3e9fcf45a241155092c65'

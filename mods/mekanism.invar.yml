@@ -1,0 +1,16 @@
+id: mekanism
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Ce6I4WUE/versions/nWsUKZBo/Mekanism-1.21.1-10.7.14.79.jar
+  file_name: Mekanism-1.21.1-10.7.14.79.jar
+  file_size: 11868610
+  version_id: nWsUKZBo
+  hashes:
+    sha1: dcde0b00a50cb9f9965f6f619700347f4c6a2321
+    sha512: '03baca5da9f1cd69c1e8ade9d13473e68b96b4e330676a37f256d093edb9b9304e29ce817092dc5cab02a7ece728ec9308c352ae73c6a44165ca9de4836dd290'

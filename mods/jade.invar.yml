@@ -1,0 +1,16 @@
+id: jade
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/nvQzSEkH/versions/iku9fmp8/Jade-1.21.1-NeoForge-15.10.2.jar
+  file_name: Jade-1.21.1-NeoForge-15.10.2.jar
+  file_size: 725841
+  version_id: iku9fmp8
+  hashes:
+    sha1: '15986fb51014c28ddc6dc8825393b04cff017e6a'
+    sha512: '73c9fefc5f05a3429b6a4e7ac2aa61040e2f3d0bfb6be378b112a78db77e7c2d1e4645f8e422a2913abc2d33c5ac07c1a19975c86c5c029c4ef1be9bfc8c1bb2'

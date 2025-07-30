@@ -1,0 +1,16 @@
+id: carry-on
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/joEfVgkn/versions/CYsR1NtX/carryon-forge-1.21.1-2.2.3.1.jar
+  file_name: carryon-forge-1.21.1-2.2.3.1.jar
+  file_size: 506618
+  version_id: CYsR1NtX
+  hashes:
+    sha1: e53cdba38dfb746990008f5b8828e56df3f87365
+    sha512: '246a4a1dc5d0e36e71e5ddba3fc8a918d51d9179138996ac608d3aaac61c6aaccc82ab7e4caddb2dc076c11c9c07fe3f9b8ff360e15cd850bef89f79051778bd'

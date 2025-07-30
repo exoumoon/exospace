@@ -1,0 +1,16 @@
+id: complementary-unbound
+category: shader
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/R6NEzAwj/versions/1ng9gVp7/ComplementaryUnbound_r5.5.1.zip
+  file_name: ComplementaryUnbound_r5.5.1.zip
+  file_size: 456332
+  version_id: '1ng9gVp7'
+  hashes:
+    sha1: '52fdb332e6de592cceb8f85f2dc756eb78afab01'
+    sha512: a79d536ad610741d3ac25faeb4f32a7fff6d25b89529b5a4919d72b9f9f817a15680a734e5ccb50efd77737ff215089adb93d7a3c02b439c25b9dab988e41c36

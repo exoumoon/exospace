@@ -1,0 +1,16 @@
+id: data-essence
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/p2r7HYfw/versions/tZHNnNSs/datanessence-1.0.0-alpha-song_of_the_factory5.jar
+  file_name: datanessence-1.0.0-alpha-song_of_the_factory5.jar
+  file_size: 9611073
+  version_id: tZHNnNSs
+  hashes:
+    sha1: '9a15a7bcc2a74fee6d20b6843aa85dde375f6d7e'
+    sha512: '54334fda40db338e643f5377f88b2ee2c6a6de1ad21a1bb99a8bf36145fac8a1c730fda561999d4d1de0969c195cccc3272dc6611a23ade171e0a930c3a58093'

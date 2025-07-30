@@ -1,0 +1,4 @@
+#Thu Jul 31 00:38:07 MSK 2025
+AO_in_sunlight=true
+LPV_ENABLED=true
+LPV_VL_FOG_ILLUMINATION=true

@@ -5,8 +5,10 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - forge
   - minecraft
+  - fabric
+  - quilt
+  - forge
 settings:
   vcs_mode: track_components
   backup_mode: manual
@@ -19,3 +21,9 @@ local_components:
   category: config
 - path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-server.toml
   category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/.gitkeep
+  category: shader
+- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/Bliss-Shader-Unstable.zip
+  category: shader
+- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/Bliss-Shader-Unstable.zip.txt
+  category: shader

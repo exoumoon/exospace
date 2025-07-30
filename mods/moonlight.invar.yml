@@ -1,0 +1,16 @@
+id: moonlight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/twkfQtEc/versions/8vAQdUm3/moonlight-1.21-2.20.6-neoforge.jar
+  file_name: moonlight-1.21-2.20.6-neoforge.jar
+  file_size: 1167253
+  version_id: '8vAQdUm3'
+  hashes:
+    sha1: '9b3ffb6a036516fe014d21c5d26e31419381c4ee'
+    sha512: '65cb3fdb810db26663e758309d30d9f89dac69a3310a0d421f9f32c1ea9fb1143fabd8ae8683006ac9e991b0acc51f966fbf898ddb5ec4cb37e6194f8bce3b50'

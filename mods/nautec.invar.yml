@@ -1,0 +1,16 @@
+id: nautec
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/FN43ajKQ/versions/dZRgVo0z/temp_nautec-0.2.8d.jar
+  file_name: temp_nautec-0.2.8d.jar
+  file_size: 1492754
+  version_id: dZRgVo0z
+  hashes:
+    sha1: '8f8359db9b5869329f0113b9546c0976646a7d6c'
+    sha512: d149124c0d491d3e73fa985c4bf8d92c620cfd78901f31d9539edc6685d301b49daabd2986d78fc64875c1b35eec2bb71358acad6a26dec324e0146433a87cff

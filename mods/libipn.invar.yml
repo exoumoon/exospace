@@ -1,0 +1,16 @@
+id: libipn
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/onSQdWhM/versions/QFi1HxQ2/libIPN-neoforge-1.21-6.5.1.jar
+  file_name: libIPN-neoforge-1.21-6.5.1.jar
+  file_size: 620652
+  version_id: QFi1HxQ2
+  hashes:
+    sha1: '9f7b91e2e8c729bff6eaac0c1c4123160ca4b7f5'
+    sha512: '57bb7c94cefbcb5d8eb9da1651c34f536b371d87e1cb251f3ed60782b94b7fff62d655e4fbe3b6b7c8e537fbb23e0ba445ee762c6a333677f10959c5f6ee0ea8'

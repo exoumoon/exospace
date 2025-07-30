@@ -1,0 +1,16 @@
+id: crash-assistant
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ix1qq8Ux/versions/fr29it41/CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar
+  file_name: CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar
+  file_size: 725636
+  version_id: fr29it41
+  hashes:
+    sha1: '5029cdae7e8287483b1083c53a1433109910bbeb'
+    sha512: '9e49f074cd0007d7aaeaf685968944b12478c93c159f40ead6521c8a1f7f7eedac7a3a06b5d86a0a40c748773dd76149914e5ff7110f6b19a294ab01f05cddaf'
