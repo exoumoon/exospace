@@ -1,0 +1,16 @@
+id: create-tfmg
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/USgVjXsk/versions/NT4maYyo/tfmg-1.0.2f.jar
+  file_name: tfmg-1.0.2f.jar
+  file_size: 4853291
+  version_id: NT4maYyo
+  hashes:
+    sha1: f61560283575ce7ee27b5f49337ca72787ef9e7e
+    sha512: '9c321afe91d53ffcfb25069e181121cf96ff6092268a04c3fc75dc9ad67fc3e1bf22e9273f973248298cd9e335c50d9419f2c6e4222e7c2c4f82f8b6eb561ee6'

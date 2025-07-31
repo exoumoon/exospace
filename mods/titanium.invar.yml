@@ -1,0 +1,16 @@
+id: titanium
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/1Ro7m06l/versions/cH7yPTV2/titanium-1.21-4.0.37.jar
+  file_name: titanium-1.21-4.0.37.jar
+  file_size: 605648
+  version_id: cH7yPTV2
+  hashes:
+    sha1: af61f1fa339ab8b11900cbafc8618491341b26c8
+    sha512: b6c214b8fcba288e0cb11a44545005301bdbf2ee2dead7628db0f7f996c1756d78be39987aa939a05fe5fb5f14c282e5d2a8fdf91107a1485db9720584cd4da0

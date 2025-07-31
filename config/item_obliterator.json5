@@ -12,8 +12,8 @@
 
         // I don't like the style of the Infinity items of Industrial Foregoing.
         "!industrialforegoing:infinity_.*",
-        // TODO: The laser quarry is OP.
-        // "!industrialforegoing:laser.*",
+        // The laser quarry is OP.
+        "!industrialforegoing:.*laser.*",
 
         // Last item so I don't have to worry about commas.
         ""
