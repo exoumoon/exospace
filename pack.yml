@@ -5,9 +5,9 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
+  - minecraft
   - fabric
   - forge
-  - minecraft
   - quilt
 settings:
   vcs_mode: track_components
@@ -31,3 +31,5 @@ local_components:
   category: mod
 - path: /home/mxxntype/Projects/Minecraft/exospace/mods/ConnectorExtras-1.12.1+1.21.1.jar
   category: mod
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/item_obliterator.json5
+  category: config

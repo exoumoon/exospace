@@ -1,0 +1,43 @@
+// How to add items?
+//  - They are json strings, so you need to separate each entry with a comma, except the last.
+//  - If you start an entry with !, it will be treated as a regular expression.
+//    Example: "!minecraft:.*_sword" to disable all swords.
+{
+    "configVersion": 2,
+    
+    // WARN: Items here will be unusable completely.
+    "blacklisted_items": [
+        // No clue why this exists even.
+        "create:crushed_raw_quicksilver",
+
+        // I don't like the style of the Infinity items of Industrial Foregoing.
+        "!industrialforegoing:infinity_.*",
+        // TODO: The laser quarry is OP.
+        // "!industrialforegoing:laser.*",
+
+        // Last item so I don't have to worry about commas.
+        ""
+    ],
+    
+    // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+    // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+    // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+    "blacklisted_nbt": [ ],
+    
+    // Items here will not be able to be right-clicked.
+    "only_disable_interactions": [ ],
+    
+    // Items here will not be able to be used to attack.
+    "only_disable_attacks": [ ],
+    
+    // Items here will get their recipes disabled.
+    "only_disable_recipes": [ ],
+    
+    // If true, the mod will use a hashset to handle the blacklisted items
+    // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+    // If you just have a small amount of items blacklisted, keep this false
+    //    
+    // [!] Enabling this will disable all regular expressions
+    // [!] Does not apply to NBT, only item blacklist / interaction / attack
+    "use_hashmap_optimizations": false
+}
