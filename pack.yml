@@ -5,10 +5,10 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - minecraft
   - fabric
-  - quilt
   - forge
+  - minecraft
+  - quilt
 settings:
   vcs_mode: track_components
   backup_mode: manual
@@ -21,9 +21,13 @@ local_components:
   category: config
 - path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-server.toml
   category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/.gitkeep
-  category: shader
 - path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/Bliss-Shader-Unstable.zip
   category: shader
 - path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/Bliss-Shader-Unstable.zip.txt
   category: shader
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/natures_spirit-common.toml
+  category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/mods/connector-2.0.0-beta.8+1.21.1-full.jar
+  category: mod
+- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ConnectorExtras-1.12.1+1.21.1.jar
+  category: mod

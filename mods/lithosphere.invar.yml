@@ -1,0 +1,16 @@
+id: lithosphere
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/iv9jp2k9/versions/zDWIbSdr/lithosphere-1.6.jar
+  file_name: lithosphere-1.6.jar
+  file_size: 582938
+  version_id: zDWIbSdr
+  hashes:
+    sha1: '320637e4777e721ab19524f6f15dcbb90c5a0dc3'
+    sha512: '8b61df3581e442e99264f8e972f95bf185e8cc6b0e79f2aa5eb3b18b181753987dd76aceddafab61efbe314a6c66b1a32da4a8ead9cf2aa70b0ae5467b0a2301'

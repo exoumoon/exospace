@@ -8,14 +8,12 @@ services:
     environment:
       VIEW_DISTANCE: 8
       MAX_PLAYERS: 8
-      SEED: "-6903841338948562863"
+      SEED: 0
       MEMORY: '20G'
       EULA: 'TRUE'
       ENABLE_AUTOPAUSE: false
       ONLINE_MODE: false
       RCON_CMDS_FIRST_CONNECT: |
-        /whitelist on
-        /whitelist add mxxntype
         /op mxxntype
       MODE: survival
       DIFFICULTY: hard
