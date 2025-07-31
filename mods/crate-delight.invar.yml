@@ -1,0 +1,16 @@
+id: crate-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9rlXSyLg/versions/YIk0PhEs/cratedelight-24.11.22-1.21-neoforge.jar
+  file_name: cratedelight-24.11.22-1.21-neoforge.jar
+  file_size: 214013
+  version_id: YIk0PhEs
+  hashes:
+    sha1: '1ad4a4a2ae3a073fe518a11682ee96d26186add0'
+    sha512: '74e294052ea7b0a28602bf89d5ce4fd69ccd217de6d8819f8789c18faafbd2c236db0e242379d39f62a39ed2a53f8b17d8b00d0e002a3726c11b3695a09469bf'

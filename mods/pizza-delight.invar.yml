@@ -1,0 +1,16 @@
+id: pizza-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Cb5J3sNW/versions/QRmwdhRB/pizzadelight-1.1.1-1.21.1.jar
+  file_name: pizzadelight-1.1.1-1.21.1.jar
+  file_size: 65186
+  version_id: QRmwdhRB
+  hashes:
+    sha1: '198d70ab1ae1cce9e1d80441dd44e3b1a9eca67a'
+    sha512: '1b06efd568bb648ec0a9e3779b2f19f50e48ecd87c4a31de4c0959549ab9f96b5b452966b857706126cd9784bcfeeea0af803c07d0040e020ad4bdafead343b2'

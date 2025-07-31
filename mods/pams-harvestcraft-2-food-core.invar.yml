@@ -1,0 +1,16 @@
+id: pams-harvestcraft-2-food-core
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Z9OywhE4/versions/IHVdcpYW/pamhc2foodcore-NEOFORGE-1.21.1-1.0.2.jar
+  file_name: pamhc2foodcore-NEOFORGE-1.21.1-1.0.2.jar
+  file_size: 983827
+  version_id: IHVdcpYW
+  hashes:
+    sha1: aa757abe71467b1d39a6e40c0bfecac9ae3f1e14
+    sha512: '9c0ab3dba4589d74e67829f565a013a586f0d94118c12c6fb1d60961614bd46a1a5433030601dcfdce2b727437e5c8089d85d85d16a2fa210059d8cc6ec878ce'

@@ -1,0 +1,16 @@
+id: slice-and-dice
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/GmjmRQ0A/versions/ZiO4MFZQ/sliceanddice-neoforge-4.0.1.jar
+  file_name: sliceanddice-neoforge-4.0.1.jar
+  file_size: 1004569
+  version_id: ZiO4MFZQ
+  hashes:
+    sha1: bc02e47896bc695644f3e482fff711687785c0c7
+    sha512: '953b17c9a6e0b9b15832c84101dd8e9aae547cd18583f6df96c66d777a7e9f898395160d3e24979fbd324abec041b91ad845d212c10c1d9faaa86f65a3864d1c'

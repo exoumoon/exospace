@@ -1,0 +1,16 @@
+id: more-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/znHQQtuU/versions/Fe9UVuq7/moredelight-25.07.28a-1.21-neoforge.jar
+  file_name: moredelight-25.07.28a-1.21-neoforge.jar
+  file_size: 144628
+  version_id: Fe9UVuq7
+  hashes:
+    sha1: cd3ecee61c4b642464dcb19330260a747a4e25e4
+    sha512: ff06be5cfc5503551de99b9d85dffa8068d0a303d110c894d081c2fefa1ef550d9faae2adea5902accd78f52ba0d07562bc716f798f83465f0bd267d32fb1acc

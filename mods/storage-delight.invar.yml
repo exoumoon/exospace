@@ -1,0 +1,16 @@
+id: storage-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/LTTvOp5L/versions/FMxmvSzX/storagedelight-25.06.24-1.21-neoforge.jar
+  file_name: storagedelight-25.06.24-1.21-neoforge.jar
+  file_size: 472865
+  version_id: FMxmvSzX
+  hashes:
+    sha1: c29f16bf47aff5b711d1db0f50a45f3efb21e3da
+    sha512: '9d533883378f701c8501cb7b0a5fb0269733311e052d2ea2d90d9cd6a21d7bb37aba324094c39f04cfed57f64feb3f7174edea0c73d0b72950ca5fdd82a161f5'

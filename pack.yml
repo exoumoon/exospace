@@ -7,8 +7,8 @@ instance:
   allowed_foreign_loaders:
   - minecraft
   - fabric
-  - forge
   - quilt
+  - forge
 settings:
   vcs_mode: track_components
   backup_mode: manual
@@ -33,3 +33,7 @@ local_components:
   category: mod
 - path: /home/mxxntype/Projects/Minecraft/exospace/config/item_obliterator.json5
   category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/mods/Aquaculture-1.21.1-2.7.14.jar
+  category: mod
+- path: /home/mxxntype/Projects/Minecraft/exospace/mods/croptopia_1.21.1_NEO-FORGE-4.2.1.jar
+  category: mod

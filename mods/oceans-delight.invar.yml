@@ -1,0 +1,16 @@
+id: oceans-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/DGiq4ZSW/versions/uYwpUE9A/oceansdelight-neoforge-1.0.3-1.21.jar
+  file_name: oceansdelight-neoforge-1.0.3-1.21.jar
+  file_size: 108785
+  version_id: uYwpUE9A
+  hashes:
+    sha1: f74863b60417876c67f9cb438bc5a059e8e805c2
+    sha512: '1e340a7ad3cd026ed2f15daa6308146ebeacbcb642e312dc131d3637a1c24b20ce448688a83476323a52e122b467e74da20cf02dc04d28faa0b9a2c60684467b'

@@ -1,0 +1,16 @@
+id: egg-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gNPz4Cy4/versions/OTVXXEah/EggDelight-v1.2-1.21.1.jar
+  file_name: EggDelight-v1.2-1.21.1.jar
+  file_size: 613974
+  version_id: OTVXXEah
+  hashes:
+    sha1: '5287d727b59a6d1d7d489cd3d0777631be5f1968'
+    sha512: '37e2d6548532617987a29c68891d4cd0a986c69f952fbf831377d33764ab094b4d10c2d97d18eb6791551626a24e8356ebc65825fe970f9dddd7011fa2336964'

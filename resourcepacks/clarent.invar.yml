@@ -1,0 +1,16 @@
+id: clarent
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/asD9taD4/versions/l5bBuCZg/Clarent_1216.1.B.zip
+  file_name: Clarent_1216.1.B.zip
+  file_size: 2132333
+  version_id: l5bBuCZg
+  hashes:
+    sha1: '46aa4be4c17a21f7377f00da9b5de7438235dd9e'
+    sha512: d48c0fdf6e08f5891736448a733edf30462bb67e65e2f5f36d0a73e17029eeea39ceb599b4dbdff372f5d5bcdcc878b4c2bd95d2add2dba7ec1d928dda8d361b

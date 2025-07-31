@@ -1,0 +1,16 @@
+id: aquaculture-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/U9GJqWrI/versions/VFpyJiVp/aquaculturedelight-1.2.0-neoforge-1.21.1.jar
+  file_name: aquaculturedelight-1.2.0-neoforge-1.21.1.jar
+  file_size: 213607
+  version_id: VFpyJiVp
+  hashes:
+    sha1: '111393c07a98f29cab1de0d91965cc1bc6d9d73f'
+    sha512: ef13ec67b0af25a94015d5dcd7a549b3a7759026cd3689923b107e92700f09cc0826f0c98d22fdeef37f2f8d5f1219f6d6edabb5f026b5fec9d347b5e1c23231
