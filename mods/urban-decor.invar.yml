@@ -1,0 +1,16 @@
+id: urban-decor
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/1bLZdx1u/versions/funDBJOa/neoforge-urban_decor-1.21.1-1.0.6.jar
+  file_name: neoforge-urban_decor-1.21.1-1.0.6.jar
+  file_size: 1592030
+  version_id: funDBJOa
+  hashes:
+    sha1: '9eb785803ab00359f4e6743f0d19220e19fcde55'
+    sha512: cf486f5446e25e79d36f26c842cdf6234713ff1c01a9c7826cf8ef59dd51a8ea11e5a3c13b88891c15ef5d63e6c0cbd3cc9cb8f63b061ea00b34ade69d349ae1

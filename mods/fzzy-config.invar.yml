@@ -1,0 +1,16 @@
+id: fzzy-config
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/hYykXjDp/versions/wFIc6GXf/fzzy_config-0.7.1%2B1.21%2Bneoforge.jar
+  file_name: fzzy_config-0.7.1+1.21+neoforge.jar
+  file_size: 2206689
+  version_id: wFIc6GXf
+  hashes:
+    sha1: '646cb73ff1b33aa4fd08c9fb4b7d92496f81f6f9'
+    sha512: '8f911352f36bb7bbe293daa292fd44a3baf5510e02363a31c8614e32276d6075b082828c91bfca36f216955d343932da8c879da0184bc9c9b9f14b6f604abefd'

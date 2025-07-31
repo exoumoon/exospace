@@ -1,0 +1,16 @@
+id: macaws-paintings
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/okE6QVAY/versions/El2YIAWc/mcw-paintings-1.0.5-1.21.1neoforge.jar
+  file_name: mcw-paintings-1.0.5-1.21.1neoforge.jar
+  file_size: 62622
+  version_id: El2YIAWc
+  hashes:
+    sha1: d52d16e1b9712e74907d78f5849765c3c9008788
+    sha512: b40d1b5f084117af1fa567eb3ca6d9987c3de78b5b83b5a80c5165f8dbfb12a66fbdfff42c7707a02eab7720c4408807ecef6069ed7d4ee18d4f554acb6c5759

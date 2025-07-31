@@ -1,0 +1,16 @@
+id: forgematica
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/dCKRaeBC/versions/p2f8UUvQ/Forgematica-0.3.3-mc1.21.1.jar
+  file_name: Forgematica-0.3.3-mc1.21.1.jar
+  file_size: 1395985
+  version_id: p2f8UUvQ
+  hashes:
+    sha1: f7379b40282afd3f4d1ac50570197fe96ab89591
+    sha512: b5ae888bc2eb1741c8fab6c945e43c1fbdd2018adbbbb0e35f6899c59b6eb6252e5d01d709f9adc6e08e4f074ce63387d980b86dc391d2aa145ae1fa24f1c83a

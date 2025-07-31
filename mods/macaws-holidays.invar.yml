@@ -1,0 +1,16 @@
+id: macaws-holidays
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/rH20L2Lp/versions/9L7GBEl5/mcw-holidays-1.1.0-mc1.21.1neoforge.jar
+  file_name: mcw-holidays-1.1.0-mc1.21.1neoforge.jar
+  file_size: 990382
+  version_id: '9L7GBEl5'
+  hashes:
+    sha1: '3f04e27df578f845c5d9f5b6e9e52bbabec990b9'
+    sha512: '2fee8a825a0a559cd2445c953eff100312702db07ba6711fae20286db7ea88ab73d446a9a934be5dd6a48e22911fdd7c81299ae7a13af608afe70991fe0367fe'

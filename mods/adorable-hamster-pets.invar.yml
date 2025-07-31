@@ -1,0 +1,16 @@
+id: adorable-hamster-pets
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/LmrhZdK2/versions/aVz7IhyJ/adorablehamsterpets-3.0.0-1.21.1%2Bneoforge.jar
+  file_name: adorablehamsterpets-3.0.0-1.21.1+neoforge.jar
+  file_size: 1601542
+  version_id: aVz7IhyJ
+  hashes:
+    sha1: a92f6cdb85763369a6dd6b16e27102fbd14452f4
+    sha512: ddb414707625abeb08f3874a88ce9ea2992a4916c2f1a78787e872806ea46bb15d79927d2bdabc91646855cf99ecdecf176198d1ee88e06b22d7de8b654990bc

@@ -1,0 +1,16 @@
+id: items-displayed-forge
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/PuR4vDBo/versions/TdI7OBwt/ItemsDisplayed-NeoForge-2.0.6.jar
+  file_name: ItemsDisplayed-NeoForge-2.0.6.jar
+  file_size: 561790
+  version_id: TdI7OBwt
+  hashes:
+    sha1: dfa9752e0f1e0779d939a76f476d0ba709092dad
+    sha512: '78230f28440b9bbfded750cb67486c93dffa3b557f1379bb99fbbe3b837bddde83c1eab78a96d9be63b9e9dd754e4ac667eb16b7e0c825de5f80a30c2f5553a5'

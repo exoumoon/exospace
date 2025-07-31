@@ -1,0 +1,16 @@
+id: yacl
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/1eAoo2KR/versions/zwRKksBU/yet_another_config_lib_v3-3.7.1%2B1.21.1-neoforge.jar
+  file_name: yet_another_config_lib_v3-3.7.1+1.21.1-neoforge.jar
+  file_size: 1111051
+  version_id: zwRKksBU
+  hashes:
+    sha1: '7567715bd90e6f3420eee6d468eec1db861a03f2'
+    sha512: bd0bbbc8563117bc817b0d40ee345928713ac93976e34e4947472e57d3c6bad307cb56881e6772c3712cf3afed9577604c100fa9ccf22255896b703f44ec003b
