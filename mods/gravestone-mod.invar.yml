@@ -1,0 +1,16 @@
+id: gravestone-mod
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/RYtXKJPr/versions/RMwfWbij/gravestone-neoforge-1.21.1-1.0.32.jar
+  file_name: gravestone-neoforge-1.21.1-1.0.32.jar
+  file_size: 318385
+  version_id: RMwfWbij
+  hashes:
+    sha1: e917b8340c5f57691f3ba421be62adc8b6f8a621
+    sha512: '85743a58075343f07469e36b0bc5f6c48ebb8a8608f4e9cc1eafb84b268a6264f9f407265dbacf7fd4280e49616f0e4ff3956aaa445adff32229eda1b0789406'

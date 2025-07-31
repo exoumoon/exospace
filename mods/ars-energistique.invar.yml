@@ -1,0 +1,16 @@
+id: ars-energistique
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/IJI3QuK8/versions/Bdb8HLZ0/arseng-2.1.1-beta.jar
+  file_name: arseng-2.1.1-beta.jar
+  file_size: 123229
+  version_id: Bdb8HLZ0
+  hashes:
+    sha1: e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6
+    sha512: '4d6229c3c4f627e9804b2afdbeb58fedf172c70e8704b0fa91cfc4d5073bb13ede99b71cd35ee397a92b891a4f884b63bead4a7fbcbe8513fbc8f29c786f42c2'

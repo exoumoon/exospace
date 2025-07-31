@@ -10,6 +10,7 @@ services:
       MAX_PLAYERS: 8
       SEED: 0
       MEMORY: '20G'
+      MAX_TICK_TIME: 0
       EULA: 'TRUE'
       ENABLE_AUTOPAUSE: false
       ONLINE_MODE: false

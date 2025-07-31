@@ -1,0 +1,16 @@
+id: relics-mod
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OCJRPujW/versions/1rqBbDn5/relics-1.21.1-0.10.7.5.jar
+  file_name: relics-1.21.1-0.10.7.5.jar
+  file_size: 2748789
+  version_id: '1rqBbDn5'
+  hashes:
+    sha1: e2056f00e2dcf72d4e31a288587d07b61708954e
+    sha512: '25a59068034ec77c971376b59a590c44d2c46c7e6855ddb5e3cbe9dd277e2d8c7394eccf59d242d13fc872d224df3301d51cb41d35f20f37187ad6739b283a66'

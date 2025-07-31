@@ -1,0 +1,16 @@
+id: baguettelib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OfKzpbRU/versions/u7WCvvxF/baguettelib-1.21.1-NeoForge-1.0.0.jar
+  file_name: baguettelib-1.21.1-NeoForge-1.0.0.jar
+  file_size: 24840
+  version_id: u7WCvvxF
+  hashes:
+    sha1: f052892e383dc2f3f22942c74485454311fee898
+    sha512: fae4f02a274a686ba3db77a354aaf35eb7ee923cee306461f7dffb332395efb25cd9ee6d455fc149cf8c6bfb265b04e265558ab2cfac4f0264ce29f434f13720

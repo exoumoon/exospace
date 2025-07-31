@@ -1,0 +1,16 @@
+id: too-many-bows
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/FOiJ92uI/versions/BLy4pCHm/too_many_bows-neoforge-1.21-2.1.0.jar
+  file_name: too_many_bows-neoforge-1.21-2.1.0.jar
+  file_size: 871316
+  version_id: BLy4pCHm
+  hashes:
+    sha1: '165f0fc7d87e81b5473b772c1a61aaecefe86f2b'
+    sha512: '43aecd3183d5ea4eca0cdd9267321dc5c30962f3069848933811552697b19327ba2f9bf071099f6f10011948d4641dc1450dcc433f858efc1715b15bd6c17d9a'

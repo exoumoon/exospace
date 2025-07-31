@@ -1,0 +1,16 @@
+id: irons-apothic-invaders
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/1veFBGT4/versions/JoyvwffA/irons_apothic_invaders_1.0.0.jar
+  file_name: irons_apothic_invaders_1.0.0.jar
+  file_size: 124889
+  version_id: JoyvwffA
+  hashes:
+    sha1: '320585bf9ef2120545fbe481655cbb09650b7e15'
+    sha512: '6896becf09749e8916211b3fbee96f03b89066283ed26cf2930d928d21c1c37069aaca692e00a7b439c3c47aef05a7cc872ce27568cec9ed71fbc10198fd4cb0'

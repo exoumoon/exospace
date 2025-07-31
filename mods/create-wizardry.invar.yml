@@ -1,0 +1,16 @@
+id: create-wizardry
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OeGdeWEj/versions/KWEbEgub/create_wizardry-0.2.4.1.jar
+  file_name: create_wizardry-0.2.4.1.jar
+  file_size: 66035
+  version_id: KWEbEgub
+  hashes:
+    sha1: '3dbb8712449d0c7dacfdd103c547c100ae68220a'
+    sha512: '175e257381ec603ab396b0f2581f0fee13264fe840be2886ea5be263e8e435737e05c8b49e7ed2cab8618d303e2087c627616afe393626e07c92c21fc9eb2764'

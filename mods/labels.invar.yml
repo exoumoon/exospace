@@ -1,0 +1,16 @@
+id: labels
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/x6r7yhfi/versions/Rr9vII0y/labels-1.21-2.0.1-neoforge.jar
+  file_name: labels-1.21-2.0.1-neoforge.jar
+  file_size: 93255
+  version_id: Rr9vII0y
+  hashes:
+    sha1: c171dfada42c38d8d5d4664e951140190ca8f925
+    sha512: '10a9911b25917c59f889bf2a74372914f608b9c2e552d08eb7381ccdf8f990ecdbd45ceac093009476e3953627db9c9c45782fa05943539fcd7848d2de5212b9'

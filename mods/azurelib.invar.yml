@@ -1,0 +1,16 @@
+id: azurelib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/7zlUOZvb/versions/EOttEV0x/azurelib-neo-1.21.1-3.0.24.jar
+  file_name: azurelib-neo-1.21.1-3.0.24.jar
+  file_size: 1368371
+  version_id: EOttEV0x
+  hashes:
+    sha1: '4abc5aa7e5d37589f342b87b52145dc9d38db685'
+    sha512: '75656ff59888a305556d6c90382a98a157134436dddc27dc03f81c73227b56dbedb00d154d218a53cbb505356402d97432e4dd91d298f80a543c39ed6ff5da31'
