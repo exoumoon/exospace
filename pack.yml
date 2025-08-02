@@ -5,45 +5,9 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - forge
-  - quilt
-  - fabric
   - minecraft
+  - forge
 settings:
   vcs_mode: track_components
   backup_mode: manual
-local_components:
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/fml.toml
-  category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-client.toml
-  category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-common.toml
-  category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/neoforge-server.toml
-  category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/Bliss-Shader-Unstable.zip
-  category: shader
-- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/Bliss-Shader-Unstable.zip.txt
-  category: shader
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/natures_spirit-common.toml
-  category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/connector-2.0.0-beta.8+1.21.1-full.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ConnectorExtras-1.12.1+1.21.1.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/item_obliterator.json5
-  category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/Aquaculture-1.21.1-2.7.14.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/croptopia_1.21.1_NEO-FORGE-4.2.1.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/Apotheosis-1.21.1-8.3.6.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ApothicAttributes-1.21.1-2.9.0.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ApothicEnchanting-1.21.1-1.4.4.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ApothicSpawners-1.21.1-1.3.2.jar
-  category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/Placebo-1.21.1-9.9.0.jar
-  category: mod
+local_components: []
