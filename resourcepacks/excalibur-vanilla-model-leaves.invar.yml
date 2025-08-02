@@ -1,0 +1,16 @@
+id: excalibur-vanilla-model-leaves
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/M27BaTd6/versions/I32ztzFG/%C2%A7eExcalibur_vanilla_model_leaves%C2%A70_%C2%A78%C2%A70.zip
+  file_name: §eExcalibur_vanilla_model_leaves§0_§8§0.zip
+  file_size: 35886
+  version_id: I32ztzFG
+  hashes:
+    sha1: '9a69646ba6802d88c7b1f7da3227c79e596e4ba1'
+    sha512: b7362a957d6aa36a4516c50a96c269b0f346ffd2dfb7258cbb1344de0ec17d3ec529501e2f3880abf9bdcfef5e3ed460ae4e0b7743b2e717d3f1745899c316aa

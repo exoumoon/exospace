@@ -1,0 +1,16 @@
+id: excalibur-fresh-animations
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/yiTthr0O/versions/emlxGHHB/EFA__%2810%29__E1.21.4__FA1.9.2.zip
+  file_name: EFA__(10)__E1.21.4__FA1.9.2.zip
+  file_size: 2489505
+  version_id: emlxGHHB
+  hashes:
+    sha1: e2c37521b632359b341774cdd4d2c07c8a7be40b
+    sha512: '34d9f05b0b75e2cbb73dafab87971befb447ac536a67d02448f868303bc84584436696a9b163459902563babb5b096afcb0609224f92216eae859e85bf079875'

@@ -1,0 +1,16 @@
+id: blues-better-monsters
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/MhBq4iya/versions/NssGGv0t/Blue%27s%20Better%20Monsters%20v0.12.zip
+  file_name: Blue's Better Monsters v0.12.zip
+  file_size: 708183
+  version_id: NssGGv0t
+  hashes:
+    sha1: '5483f410dd61429c97245f3853db408bd5b90221'
+    sha512: '83c941f0bf4db084bfc62662b50b92fee5db9e2c36e236e4f5445679797c4d9d9d4a55ec852c95f38a77830df1c0daec99e39df5223c6a089e75a1bd91a79123'

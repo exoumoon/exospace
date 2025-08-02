@@ -1,0 +1,16 @@
+id: yungs-api
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar
+  file_name: YungsApi-1.21.1-NeoForge-5.1.6.jar
+  file_size: 388678
+  version_id: ZB22DE9q
+  hashes:
+    sha1: e1c394779fb9e038e4f7a1b4558d0432607d263b
+    sha512: '5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d'

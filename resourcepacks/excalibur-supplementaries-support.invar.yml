@@ -1,0 +1,16 @@
+id: excalibur-supplementaries-support
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/2iwITB3c/versions/j2JSGfOQ/Excalibur_Supplementaries_0.2_1.21.1.zip
+  file_name: Excalibur_Supplementaries_0.2_1.21.1.zip
+  file_size: 497031
+  version_id: j2JSGfOQ
+  hashes:
+    sha1: a0f69b00d81696bcc4fad984aec2e147eb3947f0
+    sha512: '0fc6d7527b45038805c9136826f74f222800036cb24464973c4613b3d6cdb255369145cbded95e5ce2f2e338884009a6b3e6978684dc337bb57947bd0d71bdd3'

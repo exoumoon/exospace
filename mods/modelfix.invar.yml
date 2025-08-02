@@ -1,0 +1,16 @@
+id: modelfix
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar
+  file_name: modelfix-1.21-1.10.jar
+  file_size: 47035
+  version_id: X2U8ceG9
+  hashes:
+    sha1: '9608b1bff92e075ad8c2feb07f7ef095f6887117'
+    sha512: '647cab9a1bed84e10cfe77732a66bdfe116a6371dcceadcf896083654f7ab39542df4152674b5a3a653e3b36f517f5c1bff4c25db37dd789df9eeb1e1d799c07'

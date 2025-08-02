@@ -1,0 +1,16 @@
+id: cit-resewn
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/otVJckYQ/versions/JUnP9V1A/citresewn-1.2.2%2B1.21.jar
+  file_name: citresewn-1.2.2+1.21.jar
+  file_size: 396723
+  version_id: JUnP9V1A
+  hashes:
+    sha1: '5569769f66eda6d51ca3ae56d58d5a4657f19ef9'
+    sha512: '24338b35423798b3d842025d2a8725b980980b7ccb168b876e21ea1d4067ecba3f67918b0d6b8b332128841ab6cbe2c2d3fd408c0dd36eeeb36cb76a875c442a'

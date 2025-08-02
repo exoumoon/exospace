@@ -1,0 +1,16 @@
+id: unique-dark
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/BaY1UdGV/versions/7h9slNQz/UniqueDark%201.20.2-1.21.x%20%28free%29.zip
+  file_name: UniqueDark 1.20.2-1.21.x (free).zip
+  file_size: 7932055
+  version_id: '7h9slNQz'
+  hashes:
+    sha1: '766d1da302444eb86ddf045cd6c2885afc65be7b'
+    sha512: '2d1d54fd65aed8293f103ceda57cc13397d1bd43ef5c84304dc4b34f4f9164dcd31cf08487ad67b23f336acf26e5bc978a38ce472e0ab6e54a0e5df0b2f1932e'

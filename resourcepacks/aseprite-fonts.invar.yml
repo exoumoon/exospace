@@ -1,0 +1,16 @@
+id: aseprite-fonts
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/yWhDSidC/versions/pzgHnBMH/Aseprite%20Fonts.zip
+  file_name: Aseprite Fonts.zip
+  file_size: 20093
+  version_id: pzgHnBMH
+  hashes:
+    sha1: ec7d41d22760d8a18ccbead1f3fde0fe9c00e98e
+    sha512: '01009fea34bda74ceb356a7be09f7633ac152c554ddaa0c7b6e3472369d9273f3ec00c7cd8d67d135dab4bf09b2975c5f3bc5dbd8e5964dfc05bad7851d44a3e'

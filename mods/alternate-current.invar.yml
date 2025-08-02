@@ -1,0 +1,16 @@
+id: alternate-current
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/r0v8vy1s/versions/PCNyL6v4/alternate_current-mc1.21-1.9.0.jar
+  file_name: alternate_current-mc1.21-1.9.0.jar
+  file_size: 50425
+  version_id: PCNyL6v4
+  hashes:
+    sha1: '1201c14362f2bad7062d315f8a9b26afbabd2c9c'
+    sha512: e7715d92987ad902f316ae657558a58e647b4f076d6962e6ac5b6bdb802755f1a37c2380b69002ce930b29dc02fe96989d41818462f7bc236c4ad709b0842480

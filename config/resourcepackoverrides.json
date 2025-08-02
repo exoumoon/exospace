@@ -1,0 +1,79 @@
+{
+	"schema_version": 2,
+	"failed_reloads_per_session": 5,
+
+	"default_packs": [
+		"vanilla",
+		"fabric",
+		"mod_resources",
+		"moonlight:mods_dynamic_assets",
+
+		"file/excal.zip",
+		"file/clarent.zip",
+		"file/fresh-animations.zip",
+		"file/excalibur-fresh-animations.zip",
+		"file/amendments-excal-support.zip",
+		"file/aquaculture-2-excalibur-support.zip",
+		"file/excal-disenchant-support.zip",
+		"file/excal-friends-and-foes-support.zip",
+		"file/excalibur-create-support.zip",
+		"file/excalibur-farmers-delight-support.zip",
+		"file/excalibur-ribbits-support.zip",
+		"file/excalibur-supplementaries-support.zip",
+		"file/excalibur-vanilla-model-leaves.zip",
+		"file/fallen-adventurers-excalibur.zip",
+
+		"rprenames:default_dark_mode",
+		"file/unique-dark.zip",
+		"file/aseprite-fonts.zip",
+
+		"file/blues-better-monsters.zip",
+		"file/twc.zip"
+	],
+
+	"default_overrides": {
+		"force_compatible": true
+	},
+
+	"pack_overrides": {
+		"base": ["fabric", "mod_resources", "moonlight:mods_dynamic_assets"],
+		"$$base": {
+			"hidden": true,
+			"required": true
+		},
+
+		"hidden": [
+			"high_contrast",
+			"programmer_art",
+			"rprenames:high_contrasted",
+			"rprenames:vanillish"
+		],
+		"$$hidden": {
+			"hidden": true,
+			"required": false
+		},
+
+		"excalibur": [
+			"file/excal.zip",
+			"file/clarent.zip",
+			"file/fresh-animations.zip",
+			"file/excalibur-fresh-animations.zip",
+			"file/amendments-excal-support.zip",
+			"file/aquaculture-2-excalibur-support.zip",
+			"file/excal-disenchant-support.zip",
+			"file/excal-friends-and-foes-support.zip",
+			"file/excalibur-create-support.zip",
+			"file/excalibur-farmers-delight-support.zip",
+			"file/excalibur-ribbits-support.zip",
+			"file/excalibur-supplementaries-support.zip",
+			"file/excalibur-vanilla-model-leaves.zip",
+			"file/fallen-adventurers-excalibur.zip"
+		],
+
+		"$$excalibur": {
+			"hidden": false,
+			"required": true,
+			"force_compatible": true
+		}
+	}
+}

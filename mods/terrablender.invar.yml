@@ -1,0 +1,16 @@
+id: terrablender
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar
+  file_name: TerraBlender-neoforge-1.21.1-4.1.0.8.jar
+  file_size: 120365
+  version_id: '6e8GCrLb'
+  hashes:
+    sha1: '744394d979b422be560babf9df7a6800ede9ac5b'
+    sha512: '9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50'

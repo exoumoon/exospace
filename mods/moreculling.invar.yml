@@ -1,0 +1,16 @@
+id: moreculling
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/51shyZVL/versions/2w0zNJb4/moreculling-neoforge-1.21.1-1.0.6.jar
+  file_name: moreculling-neoforge-1.21.1-1.0.6.jar
+  file_size: 342982
+  version_id: '2w0zNJb4'
+  hashes:
+    sha1: f6f43344e0622ac05ad7aca5378ec35aad31ac30
+    sha512: fa0081e9aae10d31f30a0f829bafe62768a6536123d8cb5abdebeebbb4e90dc72732d35165452a324bbdb93b3bb4d357427a205b502d063459a15ceb6e280a92

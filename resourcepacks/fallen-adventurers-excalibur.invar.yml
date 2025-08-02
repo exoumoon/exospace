@@ -1,0 +1,16 @@
+id: fallen-adventurers-excalibur
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/mSAVT6BF/versions/UTBRQC20/%C2%A7eFallen%20Adventurers%20Excalibur%C2%A70_%C2%A78%C2%A70.zip
+  file_name: §eFallen Adventurers Excalibur§0_§8§0.zip
+  file_size: 183657
+  version_id: UTBRQC20
+  hashes:
+    sha1: '27c697533fda870cba781a45d20253b4125273c6'
+    sha512: '5768f5b08534942c5c3b46aff0cb1a715dd66c7e1f7622bb50a9729b4837d28575049025de09d1d66e112a03fcd4a8f3bc8de0f922751e24630aa190d6967344'

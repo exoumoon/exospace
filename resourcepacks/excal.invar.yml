@@ -1,0 +1,16 @@
+id: excal
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/hJAzl1Bs/versions/ZRWxgeyn/Excalibur_V1.21.1.zip
+  file_name: Excalibur_V1.21.1.zip
+  file_size: 18103896
+  version_id: ZRWxgeyn
+  hashes:
+    sha1: '32e930dd065d2278587c1cc810ca6eaba5afd125'
+    sha512: '858c0367346ec6d58e34ecd2f3b69b73e779d655a49ca12bcdd0113106bf4516f378013bab74331ad1f02ba0b0c2c465374802210ebb3f1f6d26b1cc8936a591'

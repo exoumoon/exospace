@@ -1,0 +1,16 @@
+id: resource-pack-overrides
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/YsFycamt/versions/xf3H2eJV/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar
+  file_name: ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar
+  file_size: 83035
+  version_id: xf3H2eJV
+  hashes:
+    sha1: '42dddb70cc645a864596439ea95bd56e7a5561ed'
+    sha512: '9a15db96ffc86bc93624392c22c2aaea4ad4a7267c20ff528ff2dd61d8d84b9db611fc24673fba5b5d0bac318b4ce1e9d1725085ce2fad68f4231afa6bbb43c4'

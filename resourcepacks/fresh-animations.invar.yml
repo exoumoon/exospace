@@ -1,0 +1,16 @@
+id: fresh-animations
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip
+  file_name: FreshAnimations_v1.9.2.zip
+  file_size: 516256
+  version_id: '8vtPih5h'
+  hashes:
+    sha1: ff18e6a762b87d7e8bad0726ac7d9c153306c6d2
+    sha512: '97a387112a5a94b0e7f4d0d2439977a9f28579303ad883ed3d0fcc3277357f8b3ab2418960f698d1a5f435903e0b2f82716fc92f8500cac090f900b2d2135dcf'

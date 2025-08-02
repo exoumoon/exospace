@@ -1,0 +1,16 @@
+id: clarent
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/asD9taD4/versions/Eicw4JfW/Clarent__%2829%29__E1.21.4__MC1.21.1.zip
+  file_name: Clarent__(29)__E1.21.4__MC1.21.1.zip
+  file_size: 5629155
+  version_id: Eicw4JfW
+  hashes:
+    sha1: '3f2688048f6485ac8161016562ed49ab441326fa'
+    sha512: '038b3fe4ef6ed6b475f6d85145db914aadf346b5d8197d5874aaf2bec74e0dc462164b828a52a09e7833782fb4b4f86cae5f7e8e4c3f05898fc0e168825dcb5d'

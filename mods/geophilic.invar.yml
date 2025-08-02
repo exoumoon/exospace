@@ -1,0 +1,16 @@
+id: geophilic
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/hl5OLM95/versions/Z3bWyYpn/Geophilic%20v3.4.2%20f15-80.mod.jar
+  file_name: Geophilic v3.4.2 f15-80.mod.jar
+  file_size: 753719
+  version_id: Z3bWyYpn
+  hashes:
+    sha1: ce2a105c9de82726e0d04b446695882f6dafde38
+    sha512: e253d17d12f94227154cc045eb8c47f70b7119328792f28a52c8605560cc463b5aa00d254e50a29c4c37061353136bf82dc8ae8ccadac551f035925b8935ced5

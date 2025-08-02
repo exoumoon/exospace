@@ -1,0 +1,16 @@
+id: entitytexturefeatures
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/BVzZfTc1/versions/jmfAD9oz/entity_texture_features_neoforge_1.21.1-6.2.9.jar
+  file_name: entity_texture_features_neoforge_1.21.1-6.2.9.jar
+  file_size: 672734
+  version_id: jmfAD9oz
+  hashes:
+    sha1: '81c9e2bba951825730143be4cb1ed5bedae446cf'
+    sha512: '8b39e8cd9645ab2f4a27f34fd06d8f2a42a42ee143635fabd52fe770205d55aca4cc33f69f5e58b60c1eaeaed4a11df06e4bf14ac5ee36c30ccb4a03f0bbec0d'

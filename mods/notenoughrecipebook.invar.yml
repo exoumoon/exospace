@@ -1,0 +1,16 @@
+id: notenoughrecipebook
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/bQh7xzFq/versions/oJLEqcbX/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.2%2B1.21.jar
+  file_name: Not Enough Recipe Book-NEOFORGE-0.4.2+1.21.jar
+  file_size: 23828
+  version_id: oJLEqcbX
+  hashes:
+    sha1: '0a8501a2331687453f678b89dd08b6dc09a0248b'
+    sha512: '2ef2d508527273acb68c6fd34692b172148760e514fc979f141e16d718bec3ecf94dfeefe1ded6783634d2ca574ec16df2eac7a99f27f8a860f490c8a8fe1d68'

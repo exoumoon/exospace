@@ -1,0 +1,16 @@
+id: forgified-fabric-api
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Aqlf1Shp/versions/vQbH2z4u/forgified-fabric-api-0.115.6%2B2.1.1%2B1.21.1.jar
+  file_name: forgified-fabric-api-0.115.6+2.1.1+1.21.1.jar
+  file_size: 5576540
+  version_id: vQbH2z4u
+  hashes:
+    sha1: '44cf59adf6848430279e2f745d3e7a7789bc6fd3'
+    sha512: f3709a29e3289f550f7ffb5a7c2b83d0952321ad3645ccb15eba3c2db8282da491e146d29aac0f6af8a17c2edaa499f5aa9816b471b35e7093abd9dc1eebb209

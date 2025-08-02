@@ -1,0 +1,16 @@
+id: connector
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/u58R1TMW/versions/KrmWHpgS/connector-2.0.0-beta.8%2B1.21.1-full.jar
+  file_name: connector-2.0.0-beta.8+1.21.1-full.jar
+  file_size: 4496468
+  version_id: KrmWHpgS
+  hashes:
+    sha1: bee48ae214a83b7b790c3eafb5e1e9fdfe77b7a4
+    sha512: c734a56142138aeabab116c7e30427d894c8b6c36dc95f498bbcd262916287894326f23a5da84d2605a924a93337f9302b83c2221ead2e013531d350baec796f

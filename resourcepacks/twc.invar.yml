@@ -1,0 +1,16 @@
+id: twc
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/c3runLeD/versions/HaMq6zJH/Teyvat%20Weapon%20Collection%201.4.1.zip
+  file_name: Teyvat Weapon Collection 1.4.1.zip
+  file_size: 277572
+  version_id: HaMq6zJH
+  hashes:
+    sha1: '833e026e06b33b9be32cd1e08649095d5f5f106c'
+    sha512: '084ac33c659330b244621389cf5921ec8e269343440008f25deb74efec05640d79e1b8d617cf79fc9bc30841b85457b44cfabfae596695ace3f488f45b148964'

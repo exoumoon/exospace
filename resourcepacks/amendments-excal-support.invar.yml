@@ -1,0 +1,16 @@
+id: amendments-excal-support
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/HCbyMlgs/versions/yp7cyxTo/Excalibur%20Amendments%201.2.zip
+  file_name: Excalibur Amendments 1.2.zip
+  file_size: 58587
+  version_id: yp7cyxTo
+  hashes:
+    sha1: '66c22348f809580ebf21d17d9681e8b9d21957b0'
+    sha512: de8eb32bd6eee85068dd797bed95987004ca8ae98b635d7ac7f738a5d9d7eeecfbc4befe798ce92d6d3d733978f0085a283fdad9228b5e2a4f1bed85952e2cf4

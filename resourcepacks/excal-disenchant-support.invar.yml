@@ -1,0 +1,16 @@
+id: excal-disenchant-support
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/lgSEVQ0T/versions/b2kg9mZT/Excalibur%20Dis-Enchanting%20Table%201.5.zip
+  file_name: Excalibur Dis-Enchanting Table 1.5.zip
+  file_size: 29229
+  version_id: b2kg9mZT
+  hashes:
+    sha1: cbe18dff8e93e11efe31a9165104c9c797700d90
+    sha512: '09816602bfd63d19470be114a5dc99e1c55ac1df6a244022be14002472dffa6ff4569f3947291db3acd126f289e78db03d29df016099440edccba8986154e8b7'

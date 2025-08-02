@@ -1,0 +1,16 @@
+id: entity-model-features
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4I1XuqiY/versions/Z0UKemxw/entity_model_features_neoforge_1.21.1-2.4.1.jar
+  file_name: entity_model_features_neoforge_1.21.1-2.4.1.jar
+  file_size: 445983
+  version_id: Z0UKemxw
+  hashes:
+    sha1: a05bb137e603fd1b74769bde1783447841cf80d5
+    sha512: '53adab9a2c8fbbdd4aefd81bf7ecc1e9749fd1fec3c24f2c8dec55c4cb297e2b4d410de2713598bcbcc1f788b19b63b645e591149aa6f3cc018834a05f93b260'

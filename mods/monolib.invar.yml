@@ -1,0 +1,16 @@
+id: monolib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9leXt4A5/versions/mdyJwxhY/monolib-neoforge-1.21.1-2.1.0.jar
+  file_name: monolib-neoforge-1.21.1-2.1.0.jar
+  file_size: 179499
+  version_id: mdyJwxhY
+  hashes:
+    sha1: e618e28647fcbf931143f81bcd905d7c9c61f27b
+    sha512: eb5ca781463ddab7d8790d3c17782b291b9cf61e07e1133d082fddbdcd3acb92e8a3a9e5b66165b62aa4b3c75aeb7db0be71e5572ad50639fbdcf432e712b265

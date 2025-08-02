@@ -1,0 +1,16 @@
+id: cit-resewn-neopatcher
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/yYE9h4iu/versions/9M6IhSgw/citresewn_neopatcher-1.1.0-1.2.2.jar
+  file_name: citresewn_neopatcher-1.1.0-1.2.2.jar
+  file_size: 23777
+  version_id: '9M6IhSgw'
+  hashes:
+    sha1: '4342bfcecf3397ff15c5315a4254459c4b2553c7'
+    sha512: '4e13521ae4d01f36e90ddfafe944d791b144696dab606fd42f1fdf5da5f7fe141e8538b6bad2b57fc0bfce4c0a28619d5c2cb2093396086b66505fac7bf32a67'

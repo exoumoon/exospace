@@ -1,0 +1,16 @@
+id: excal-friends-and-foes-support
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/pvAAHAMo/versions/qWS67HIC/Excalibur%20FriendsFoes%202.6.zip
+  file_name: Excalibur FriendsFoes 2.6.zip
+  file_size: 181680
+  version_id: qWS67HIC
+  hashes:
+    sha1: '3fd85241120b5989f660bd73b5799535ebc1af15'
+    sha512: '6ee644b0e9b1d0085e505f4ab2bf670374b6a557887460600e88379cb21010b916046b1f61f54341a0fa1c4409e647c50bbeb1de1d20a2d1817c490d2731f237'

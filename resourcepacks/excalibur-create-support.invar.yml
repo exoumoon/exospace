@@ -1,0 +1,16 @@
+id: excalibur-create-support
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Q2PKUcvo/versions/ol90Kvat/Excalibur_Create%20Addon_NeoForge_v2.0.zip
+  file_name: Excalibur_Create Addon_NeoForge_v2.0.zip
+  file_size: 2020461
+  version_id: ol90Kvat
+  hashes:
+    sha1: c1acda65cc2b549f32d1a45774e366287ada8322
+    sha512: '4d2f4e0898500c0f0d90e6465660fe844f7d419716919066fd80d330309b51e1497b64eba80a94c37e619413691d16b3edc8d321b987beacbf8cb8ced711d33a'

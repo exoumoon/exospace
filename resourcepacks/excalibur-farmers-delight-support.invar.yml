@@ -1,0 +1,16 @@
+id: excalibur-farmers-delight-support
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/nvZcjWQN/versions/FBskuGur/FarmersDelightExcaliburSupport.zip
+  file_name: FarmersDelightExcaliburSupport.zip
+  file_size: 1115594
+  version_id: FBskuGur
+  hashes:
+    sha1: '29492a488e10ee4b96d314765625e52bcbc7b04b'
+    sha512: '103ea2b3876653f7fd6915c7cc5ea74d83887b52a7c904b361051c338f61da030cdbaaec345fb059ad117deadbc0c268fa8cf13740cfe382bf5f5df240e576de'

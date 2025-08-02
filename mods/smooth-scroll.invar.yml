@@ -1,0 +1,16 @@
+id: smooth-scroll
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/CllP7wW0/versions/1HA8AoCS/smoothscroll-2.2.1-1.21.1.jar
+  file_name: smoothscroll-2.2.1-1.21.1.jar
+  file_size: 76919
+  version_id: '1HA8AoCS'
+  hashes:
+    sha1: '83ce9cb551cfb03569a39a94cbed8686b2e6abc0'
+    sha512: c9bf028f54047c5ad88b4c0fc583ad8924d6dbb58ff9d6a801c68d31a3b5fec92be3309e5022266e8efa178da2dfd2980a368cc42d947ee441136873bd433371
