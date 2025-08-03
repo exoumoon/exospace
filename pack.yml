@@ -6,8 +6,8 @@ instance:
   loader_version: '21.1.194'
   allowed_foreign_loaders:
   - fabric
-  - forge
   - minecraft
+  - forge
 settings:
   vcs_mode: track_components
 local_components:
@@ -19,3 +19,7 @@ local_components:
   category: config
 - path: /home/mxxntype/Projects/Minecraft/exospace/config/item_obliterator.json5
   category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/mods/connector-2.0.0-beta.8+1.21.1-full.jar
+  category: mod
+- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ConnectorExtras-1.12.1+1.21.1.jar
+  category: mod

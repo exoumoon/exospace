@@ -1,0 +1,16 @@
+id: lmft
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/67kVxsaO/versions/8bpAnmFd/lmft-1.0.4%2B1.21-neoforge.jar
+  file_name: lmft-1.0.4+1.21-neoforge.jar
+  file_size: 178494
+  version_id: '8bpAnmFd'
+  hashes:
+    sha1: '5eaff991e132659b9c04041da3a54d9c0dec2c3f'
+    sha512: ae0409b51ba5e267325fedd6c543faee293ec7d301c0efa18b5840b3a0e0440d94a288639db5f7a9edbb06c7acf088c0a10643c6bf36f2be7338f81788dba229
