@@ -43,3 +43,5 @@ local_components:
   category: config
 - path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/bliss-shader-unstable.zip.txt
   category: shader
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/betterdays-common.toml
+  category: config

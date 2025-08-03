@@ -1,0 +1,16 @@
+id: universal-enchants
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/DT56YDir/versions/pllSFipO/UniversalEnchants-v21.1.6-1.21.1-NeoForge.jar
+  file_name: UniversalEnchants-v21.1.6-1.21.1-NeoForge.jar
+  file_size: 96733
+  version_id: pllSFipO
+  hashes:
+    sha1: '54ab65d697b416278f0abf716a71fd18652af128'
+    sha512: '0490aab912ada58649a7edf7c9a704a30080537cdc8e8ea718883f124eb486674b29d890b9fd1933e43a49fe50c404903e6ad436f6f016c249811d6d639ad348'

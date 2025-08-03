@@ -1,0 +1,16 @@
+id: observable
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/VYRu7qmG/versions/f8lSH3bs/observable-5.4.4.jar
+  file_name: observable-5.4.4.jar
+  file_size: 388133
+  version_id: f8lSH3bs
+  hashes:
+    sha1: e17417eee213aac8291ff8bad1c6a5f710636b72
+    sha512: e594ed3a4a211158db1282202a48ded9b824d2f326e985d86116ad1709b6111cf41eba3f6ad9a4a84a8053bc8a641f955c1d4090b5776bfb9448580c26816185

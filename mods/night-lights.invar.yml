@@ -1,0 +1,16 @@
+id: night-lights
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/rGzJrU0n/versions/JDb7hHZr/nightlights%2B%5B1.21.1%5D%2Bv1.1.0.jar
+  file_name: nightlights+[1.21.1]+v1.1.0.jar
+  file_size: 2694749
+  version_id: JDb7hHZr
+  hashes:
+    sha1: ed0c0d1f59368b3f8fc0b0e74743fa21c57a385d
+    sha512: '5341445d9f0e489e0f0ece122cc11049123f33ad293a023f0c1f127e8600dddebe90130f040ca9e01c8a385e2102ab553d42a3641156fc81c0583b652ecd8705'

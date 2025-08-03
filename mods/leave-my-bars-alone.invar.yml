@@ -1,0 +1,16 @@
+id: leave-my-bars-alone
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gK9mebQg/versions/27kYf7JI/LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar
+  file_name: LeaveMyBarsAlone-v21.1.2-1.21.1-NeoForge.jar
+  file_size: 51042
+  version_id: '27kYf7JI'
+  hashes:
+    sha1: '7156b542431ea057539070c0c00feb8c9f58c099'
+    sha512: b42b4dc923df1557a475e3528ff7aa21ed8fd031f99dc807ce4c06035bb40008bf7f713b4ba883d97d91d43064a0d7c5b4f73ba22473c72f32e0e0e36cacd8f2

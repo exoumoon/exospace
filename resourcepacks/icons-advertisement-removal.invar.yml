@@ -1,0 +1,16 @@
+id: icons-advertisement-removal
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/7Rq0ipFz/versions/9NmOMmC6/Icons%20Branding%20Remover%201.21.1.zip
+  file_name: Icons Branding Remover 1.21.1.zip
+  file_size: 6783
+  version_id: '9NmOMmC6'
+  hashes:
+    sha1: '4a6d67077b90412e59e6bfa7fe0077b5b880d267'
+    sha512: '8d528fe3e1bd2dffc21282aa3018ed16a288bfd814779a20ef8e668829973f0d5904833db0b12e456b9e667b32f91221bcfe72566d69fd78db519ac7d5ca5a2d'

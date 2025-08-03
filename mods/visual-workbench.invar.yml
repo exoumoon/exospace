@@ -1,0 +1,16 @@
+id: visual-workbench
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/kfqD1JRw/versions/Jy5V5FNj/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar
+  file_name: VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar
+  file_size: 81945
+  version_id: Jy5V5FNj
+  hashes:
+    sha1: '74941456944461f39b10504ec9aed8c1e0fb7276'
+    sha512: '8e8837d2ddf7d60d192597d0c53d0fe3cd10858bf1cd015b154bc87a05603c0b849acc966592671d927bdb421c83f3c95f80ce5ba63717825508ef1579437aac'

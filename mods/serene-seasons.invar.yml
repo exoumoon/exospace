@@ -1,0 +1,16 @@
+id: serene-seasons
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/e0bNACJD/versions/SPj5bJoM/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar
+  file_name: SereneSeasons-neoforge-1.21.1-10.1.0.3.jar
+  file_size: 159206
+  version_id: SPj5bJoM
+  hashes:
+    sha1: '127e4a3e699dafebc512e1fa7983f245b49cb420'
+    sha512: '8d6c2712019da586c9f3a1372f2951173cd5f7a821645ffa03e4448e56f6b277aab0651307e1d4d9e0944cb02d32b2caff581bde912cb21fc6fd7b7d84655b8c'

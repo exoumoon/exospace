@@ -1,0 +1,16 @@
+id: melody
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar
+  file_name: melody_neoforge_1.0.10_MC_1.21.jar
+  file_size: 36096
+  version_id: efcdRVZP
+  hashes:
+    sha1: e83052a92c4ca0016bcfe7f0207273983dc84698
+    sha512: '3bd96b851a65fa95d92d051851e6a7a415927f718fcb05f0dfb5983eb3ca54edfb842ea85f1497e1b3510b5884181b8f9c6080d2b15642ceadac695011c00ec1'

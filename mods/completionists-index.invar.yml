@@ -1,0 +1,16 @@
+id: completionists-index
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/iSCGCCV1/versions/nx3WY9Ju/CompletionistsIndex-v21.1.0-1.21.1-NeoForge.jar
+  file_name: CompletionistsIndex-v21.1.0-1.21.1-NeoForge.jar
+  file_size: 85308
+  version_id: nx3WY9Ju
+  hashes:
+    sha1: '0977cc9f95a07f00641856ec02a4a387d00cf07c'
+    sha512: a61eb57f7ac29374723a8ab4c079d3d8f9d4ac67e9ecc37727cf9ae3eea29ef76276678475e24e902a6c1a0653108e2c827e5d34dc9f5007ab64936a32408296

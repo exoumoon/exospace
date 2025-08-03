@@ -1,0 +1,16 @@
+id: excal-illager-invasion-support
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/tCSau2Kv/versions/h6hSyxCE/Excalibur%20Illager%20Invasion%201.3.zip
+  file_name: Excalibur Illager Invasion 1.3.zip
+  file_size: 248422
+  version_id: h6hSyxCE
+  hashes:
+    sha1: '21e137828ec66a3126699c50dd14b1c19b225c36'
+    sha512: '0bf71f9f1a8e704f44a9d03f2420af41d69586aba79bb4d8b2d7ac0e4311c1dc0a35c1f76efa5b81913ef3f7cbff8a0be16f76c50b05bcf0a9fc7ebd8a173724'

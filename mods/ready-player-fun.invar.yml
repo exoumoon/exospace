@@ -1,0 +1,16 @@
+id: ready-player-fun
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/AwiAYDUq/versions/WeKWKqwB/readyplayerfun-1.21.1-3.0.0.0-NEOFORGE.jar
+  file_name: readyplayerfun-1.21.1-3.0.0.0-NEOFORGE.jar
+  file_size: 424519
+  version_id: WeKWKqwB
+  hashes:
+    sha1: dc006387a69b4c04936f4d69ec0e01809ea9773a
+    sha512: '48737143a491081bf89213b9825de7b24efd3adfb8eed91e200adfbfbff0d2d9b703e02c9a5fb69e69e548dbcc8502fa940e3f499e266c9e8d16093752a9198c'

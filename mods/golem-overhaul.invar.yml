@@ -1,0 +1,16 @@
+id: golem-overhaul
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/qEYs2G9A/versions/LgSEEqlu/golemoverhaul-neoforge-1.21.1-1.0.1.jar
+  file_name: golemoverhaul-neoforge-1.21.1-1.0.1.jar
+  file_size: 1007918
+  version_id: LgSEEqlu
+  hashes:
+    sha1: '9ee144de70350ab01750a259c364b241d88d07af'
+    sha512: '61ea94c7bcc385757be39df9ee2c366e9c34123b4e6a170b8c02501baa80f7baa3fefd9a91664c752e42b25414ed7309e72e1b9c2839496ae6a15e9d7df16f25'

@@ -1,0 +1,16 @@
+id: effect-insights
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Kw73iLDq/versions/gKgYWwEQ/EffectDescriptions-v21.1.1-1.21.1-NeoForge.jar
+  file_name: EffectDescriptions-v21.1.1-1.21.1-NeoForge.jar
+  file_size: 66316
+  version_id: gKgYWwEQ
+  hashes:
+    sha1: '700355b3e6c5f11e56d0aff6cc6825604e910da0'
+    sha512: '021336f44f9966da2089a813421601f2607646394f66762e673f4de644858fc0d4c3ee33bd376bb32bde2cd8ea592c7869a8c06a36ad7c157fbace4ae53a12c2'

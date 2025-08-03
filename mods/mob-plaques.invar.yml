@@ -1,0 +1,16 @@
+id: mob-plaques
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/3b1CFIR5/versions/gDwygHA5/MobPlaques-v21.1.1-1.21.1-NeoForge.jar
+  file_name: MobPlaques-v21.1.1-1.21.1-NeoForge.jar
+  file_size: 85298
+  version_id: gDwygHA5
+  hashes:
+    sha1: '54d8456c796d97630363fcd19968e15666213d3a'
+    sha512: b511dd3698ff09491918c131c2c934fe5955b040fcda010b4a6e9917d4a6aaf54efeddaaba5c684ea76c65ff826f8ff7faf48bc571c42bc55d8dbf1a8bc47a80

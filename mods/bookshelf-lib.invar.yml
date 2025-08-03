@@ -1,0 +1,16 @@
+id: bookshelf-lib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/uy4Cnpcm/versions/4OgXDufX/bookshelf-neoforge-1.21.1-21.1.63.jar
+  file_name: bookshelf-neoforge-1.21.1-21.1.63.jar
+  file_size: 328612
+  version_id: '4OgXDufX'
+  hashes:
+    sha1: '41931786098ad65b966063efb95d1cd00e27ed63'
+    sha512: c37756b34f0b271fb8c8c98cb9783ec487235a32f6593e05c7b170dcf66bf1cb8699e223f6ff160d7149535d859333e4187e07a250f03801793688f74bf8f277

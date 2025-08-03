@@ -1,0 +1,16 @@
+id: icons
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/O7z3QKAG/versions/iM6mxyAW/Icons%20v.1.11.3.zip
+  file_name: Icons v.1.11.3.zip
+  file_size: 5772258
+  version_id: iM6mxyAW
+  hashes:
+    sha1: '6f9130130600e783a9c00346c9832cbb43d33f27'
+    sha512: '8b369cfb3589c4322c66f99608e0e321eef45358d03f429ae07640771e12bcf15776d2528a39b2cec8603c0bf26babd24a2ef1c76ca87c9c18a2dab4a0bc2051'

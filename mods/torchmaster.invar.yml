@@ -1,0 +1,16 @@
+id: torchmaster
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Tl8ESrhX/versions/YfCEU9aL/torchmaster-neoforge-1.21.1-21.1.5-beta.jar
+  file_name: torchmaster-neoforge-1.21.1-21.1.5-beta.jar
+  file_size: 124820
+  version_id: YfCEU9aL
+  hashes:
+    sha1: '167a844348b57fe8a77d9f9128111b0a10d4ebe4'
+    sha512: '5ef42edbfdeb3a07be57acbce67eecf7eae1e495a8d764f1dba915a5eef906a08691f3ce813a2e7adcd2c269cff365ebb2ef009a1d5c2fdea9b469499d46c495'

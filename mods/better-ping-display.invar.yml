@@ -1,0 +1,16 @@
+id: better-ping-display
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar
+  file_name: BetterPingDisplay-1.21.1-1.1.jar
+  file_size: 13871
+  version_id: AzKubcBR
+  hashes:
+    sha1: '66702459c2a87b9943af3347c4df1ae6ff14c897'
+    sha512: '301362230f1e66a6725eb20fae106435f2d9561df631a54091956b052f9a2111a230b238dbeb0ae58a5bfa261be43474ab40315e50eebeeacef5a592e2c3bfbb'

@@ -1,0 +1,16 @@
+id: platform
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/i6fiqm5y/versions/CcI8gluH/platform-neoforge-1.21.1-1.2.10.2.jar
+  file_name: platform-neoforge-1.21.1-1.2.10.2.jar
+  file_size: 394248
+  version_id: CcI8gluH
+  hashes:
+    sha1: '0cdfb25956b29fc555a46787e6ee5a82a7291ccf'
+    sha512: e87f965630bf02b63509430faf0daafdba5c2f990bd2a520cab1c21036daa5250f7c33c49ee9465c1593049cbd2db999f57f77e85b64f783109cc1030df1e390
