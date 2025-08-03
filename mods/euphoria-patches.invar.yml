@@ -1,0 +1,16 @@
+id: euphoria-patches
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4H6sumDB/versions/scDivmFv/EuphoriaPatcher-1.6.5-r5.5.1-neoforge.jar
+  file_name: EuphoriaPatcher-1.6.5-r5.5.1-neoforge.jar
+  file_size: 2030045
+  version_id: scDivmFv
+  hashes:
+    sha1: '7b5a8ca79ee45778c495ac7dfa8cde4ba8b706ec'
+    sha512: '515765fef207868ded815b7576742aed63c677fb2053d97128838a7b963381de8b789b35396eac61f8dfd0cb67837dc5c5c2bfb550fe10a3b3d4f7ecf86b1beb'
