@@ -1,0 +1,16 @@
+id: chat-heads
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Wb5oqrBJ/versions/RVtAqF2n/chat_heads-0.13.18-neoforge-1.21.jar
+  file_name: chat_heads-0.13.18-neoforge-1.21.jar
+  file_size: 83364
+  version_id: RVtAqF2n
+  hashes:
+    sha1: e2db950d028ebf0e9fc7c8b275bb6bfa6f39dbac
+    sha512: '431289d51ae29b8e21d0e9f0a0a95d7cc87586948d41d7a2a9ebd23dcc497bd1a1ee85102216e1461e937b9a3c6065d505bfc9d3ce88090b8069bd4cfccdb905'

@@ -1,0 +1,16 @@
+id: eclectic-trove-legendary-tooltips
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/8GunilxB/versions/YAETjF4W/EclecticTrove-noconfig-1.19.2-1.3.0.zip
+  file_name: EclecticTrove-noconfig-1.19.2-1.3.0.zip
+  file_size: 13649
+  version_id: YAETjF4W
+  hashes:
+    sha1: '0940347a9745d96d6f7416dabf81142362f796a5'
+    sha512: b524208a67134b807a956e54a755df370b623a7ad89ce43bd2e1d25eecf027191fa6581f52bca6d8cad375dbd087234d7f37acc69f2c0fd84d971695ce730b73

@@ -1,0 +1,16 @@
+id: legendary-tooltips
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/atHH8NyV/versions/BabRJO04/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar
+  file_name: LegendaryTooltips-1.21.1-neoforge-1.5.5.jar
+  file_size: 81808
+  version_id: BabRJO04
+  hashes:
+    sha1: e7d3b66f3afe115c709749739f26f807ca8e827b
+    sha512: '3c0de6b6597a57b0fc3a134dde03ea3aeed0a7d64db63def8eda182c8bb7717293d2e4753887dcecaa27e17051c308269039eec6e74186d5eede68f98e74feeb'

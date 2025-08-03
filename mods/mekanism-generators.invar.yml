@@ -1,0 +1,16 @@
+id: mekanism-generators
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OFVYKsAk/versions/3kY9ZgLx/MekanismGenerators-1.21.1-10.7.14.79.jar
+  file_name: MekanismGenerators-1.21.1-10.7.14.79.jar
+  file_size: 1103294
+  version_id: '3kY9ZgLx'
+  hashes:
+    sha1: '8edbae593270f50ff216f23d94c004d270cfa7f8'
+    sha512: '147d50a5f2801b4ce144110ce8bfd7f44866b041b16e3f5154c5843af1c1457e32c9deb41ae18031d46ba5ed77cb9e13d3a16636e967ecd454d08f4a1a9b3490'

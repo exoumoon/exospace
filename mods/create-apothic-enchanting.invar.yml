@@ -1,0 +1,16 @@
+id: create-apothic-enchanting
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/dyTHNPGi/versions/CY9sBvr8/create-apothic-enchanting-0.1.0.jar
+  file_name: create-apothic-enchanting-0.1.0.jar
+  file_size: 88186
+  version_id: CY9sBvr8
+  hashes:
+    sha1: fb1884ae66873f0375c51c2905105d7601c0d1a8
+    sha512: '3aa358b3b3169534d6d732578a23ad7b836836aa6335912879002394d5e130bdcff4af17a4e17bc76b680cc7a606a5551fc34365dd816e262c58b7095896e726'

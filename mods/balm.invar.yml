@@ -1,0 +1,16 @@
+id: balm
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/MBAkmtvl/versions/bO9nqqGb/balm-neoforge-1.21.1-21.0.35.jar
+  file_name: balm-neoforge-1.21.1-21.0.35.jar
+  file_size: 465625
+  version_id: bO9nqqGb
+  hashes:
+    sha1: e64db1af56d8e64f4c9c905bb036d5110c3dc68b
+    sha512: '7d3dfb012cdb6453ad056578ac143d595f39175f7fc9537aeb5d59b0e1233d59ab3d381021d33720760fb7b1dd26cde197661e3ed148187467b51d387dbb8ebc'

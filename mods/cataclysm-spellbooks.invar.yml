@@ -1,0 +1,16 @@
+id: cataclysm-spellbooks
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/3FEg0A8D/versions/PLWaIMgo/cataclysm_spellbooks-1.1.7-1.21.jar
+  file_name: cataclysm_spellbooks-1.1.7-1.21.jar
+  file_size: 459009
+  version_id: PLWaIMgo
+  hashes:
+    sha1: f279ece596a0e3ab327c539505ce9aaa47bcf4e4
+    sha512: '288268f58e98bb917aca2eba39f02512e47cb8174a24af00c1183d47ffdf015dab201b4a35b4a43d6f346831e3a31bd96571275e63c342c925f087cbd24eadbc'

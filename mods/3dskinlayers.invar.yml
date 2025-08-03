@@ -1,0 +1,16 @@
+id: '3dskinlayers'
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/zV5r3pPn/versions/8hVaBkzL/skinlayers3d-neoforge-1.8.2-mc1.21.jar
+  file_name: skinlayers3d-neoforge-1.8.2-mc1.21.jar
+  file_size: 873119
+  version_id: '8hVaBkzL'
+  hashes:
+    sha1: '4a9597806d9f2ab83f6b78d87da71f5ee7db2094'
+    sha512: b93f5fc61cd7d162465483641a58fc77d5615b409f78ff949eeb375795c4e57d7db5af50a89af7ee2e5f885a1c6b5146e003b898d2374e82156a0b3aae737c5c

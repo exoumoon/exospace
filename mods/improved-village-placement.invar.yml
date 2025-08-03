@@ -1,0 +1,16 @@
+id: improved-village-placement
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/KA0MllEw/versions/A9qu7ToP/improved-village-placement-1.1.1.jar
+  file_name: improved-village-placement-1.1.1.jar
+  file_size: 34172
+  version_id: A9qu7ToP
+  hashes:
+    sha1: '15740b951061eea637a36a967d64085f9375a932'
+    sha512: e2cd437dbeafaaa035e5427e175da21a2fa203fc14d1f60d939b2751989464d4b2ccdd7d9aaa18806a33ccea00f06709e3fb554218b9ea6462c06700e206cb41

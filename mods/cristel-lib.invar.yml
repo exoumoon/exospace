@@ -1,0 +1,16 @@
+id: cristel-lib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/cl223EMc/versions/oLp2OCg3/cristellib-neoforge-1.2.8.jar
+  file_name: cristellib-neoforge-1.2.8.jar
+  file_size: 431656
+  version_id: oLp2OCg3
+  hashes:
+    sha1: '7dbe2c28eb59a2319098369f03a4dfff6b2d4ef2'
+    sha512: '8311c3723bef5a765347d9500d0a9f5968515770a6effb3cdbfdf6e2ddd9912f9a83bbbd7fe62baf2319dd46fd5057d7cb6044abbd2e9b91e9075291ffced747'

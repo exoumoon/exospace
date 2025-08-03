@@ -1,0 +1,16 @@
+id: presence-footsteps
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/rcTfTZr3/versions/VgtNc4Rg/PresenceFootsteps-1.11.0%2B1.21.jar
+  file_name: PresenceFootsteps-1.11.0+1.21.jar
+  file_size: 5689995
+  version_id: VgtNc4Rg
+  hashes:
+    sha1: '198ca0620e49f7fff2a9b34697223213e9ae6e5b'
+    sha512: f435512aa58aeb294c1ee91ca884a5dc8f8a04dec117c73ab272bbfb6c5287bf9c67524403d8e6658e4d6be77d11740d21ff2c063d654084eccc02d9864f21d9

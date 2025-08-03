@@ -1,0 +1,16 @@
+id: buzzier-bees
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/b7vOFSIp/versions/N8F4X17j/buzzier_bees-1.21.1-7.0.0.jar
+  file_name: buzzier_bees-1.21.1-7.0.0.jar
+  file_size: 584425
+  version_id: N8F4X17j
+  hashes:
+    sha1: '44fa58a6eca8ebfb631cedbd866354207293ecdf'
+    sha512: fac0aa864aa39753279c4efca1994ac951a927e95cc14bd1c9b99a1fabd0393705b57417a889ce3bc4bb4243a1d8887e4c7617b217b40d72185ffdee38d7318d

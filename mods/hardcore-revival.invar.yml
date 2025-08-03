@@ -1,0 +1,16 @@
+id: hardcore-revival
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/HqKoXaXz/versions/5B4eETFU/hardcorerevival-neoforge-1.21.1-21.1.8.jar
+  file_name: hardcorerevival-neoforge-1.21.1-21.1.8.jar
+  file_size: 236861
+  version_id: '5B4eETFU'
+  hashes:
+    sha1: cbcb1eabcd156f518c41be2d4d5e60af4175f9ee
+    sha512: '2fc42170c5f4c4b0b487ba468c690655424969259903f64e16b3a601b32a06ea3996c424ad9546aadb4a6ef8e508bbc39118ccfc1ca216f063bf0e1b677b1025'

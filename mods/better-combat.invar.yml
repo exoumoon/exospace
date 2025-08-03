@@ -1,0 +1,16 @@
+id: better-combat
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/5sy6g3kz/versions/gkxAxt9X/bettercombat-neoforge-2.2.4%2B1.21.1.jar
+  file_name: bettercombat-neoforge-2.2.4+1.21.1.jar
+  file_size: 927604
+  version_id: gkxAxt9X
+  hashes:
+    sha1: '95384c80f25f23c10ade47dab9cbf17517b9ec88'
+    sha512: d6a86c7d900483dedfc3ad590a96a8b2840b29a7e9f979d4ae9d0cb1d7fbe9dd4ca57e57b110526b7a3c822516d2a99d5313d486cb204532e3d9941042ec466c

@@ -1,0 +1,4 @@
+[common]
+useLiquid = true
+generateLandVents = false
+generateUnderwaterVents = true

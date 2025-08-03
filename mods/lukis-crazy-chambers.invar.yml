@@ -1,0 +1,16 @@
+id: lukis-crazy-chambers
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/JeZoobNU/versions/jAyMHDvY/lukis-crazy-chambers-1.0.2.jar
+  file_name: lukis-crazy-chambers-1.0.2.jar
+  file_size: 2177448
+  version_id: jAyMHDvY
+  hashes:
+    sha1: '13dd6ca774c58b4ecca908b84af37e329cc2cb11'
+    sha512: f619d456df67aced2f12fdabf7c33b222254f262327f3d492164f5cc380bd75e193b49a9ba65b1f4b80c52631075cb6104462ff7321d935850d1c8c49f357e27

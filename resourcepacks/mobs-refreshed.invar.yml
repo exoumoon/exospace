@@ -1,0 +1,16 @@
+id: mobs-refreshed
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/pUZXW8CZ/versions/7HZCXRvY/mobs-refreshed-v2.2.zip
+  file_name: mobs-refreshed-v2.2.zip
+  file_size: 573388
+  version_id: '7HZCXRvY'
+  hashes:
+    sha1: '8ac6542842ee61a62d9b4aa23be6cce81c29cbc0'
+    sha512: '5d10a908d2919661fe1b2afceec5196e63156f16d3514e2b66cc4ed3960eaf42bd144b48ef0821d28820f6e55180b4b42c4cc92f0c3e88b5c5e7629266e61513'

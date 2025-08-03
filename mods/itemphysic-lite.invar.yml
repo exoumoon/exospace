@@ -1,0 +1,16 @@
+id: itemphysic-lite
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OuyCgP8t/versions/FwgRiswu/ItemPhysicLite_NEOFORGE_v1.6.8_mc1.21.1.jar
+  file_name: ItemPhysicLite_NEOFORGE_v1.6.8_mc1.21.1.jar
+  file_size: 18454
+  version_id: FwgRiswu
+  hashes:
+    sha1: aad2df7e6bfaedc5e8cb1fcbe6369d416ea1007d
+    sha512: f75863d09cc67b0baae70a21f6fcd1275baa3040b0c7c5ebde2bae667994662e1ac7e06e2ff38e68a37e1cfb02b09043d863d0653fa7be9e30e07dcad75a1b6c

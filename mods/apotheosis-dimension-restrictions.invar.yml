@@ -1,0 +1,16 @@
+id: apotheosis-dimension-restrictions
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/fGetusSX/versions/VdcOEoeT/apothdims-1.0.jar
+  file_name: apothdims-1.0.jar
+  file_size: 8950
+  version_id: VdcOEoeT
+  hashes:
+    sha1: dab3a39742fb9f8e581673b5b86d77cc99d8cccd
+    sha512: ac0c34353b8659baa37da409f78e1b35f3d60ccd13885feb87ad890b6ddb929707e5840e7be606035c30c5ca08e4265a4c04597025e5eccb81dd0cb81026a9fa

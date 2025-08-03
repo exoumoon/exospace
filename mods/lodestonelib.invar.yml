@@ -1,0 +1,16 @@
+id: lodestonelib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/bN3xUWdo/versions/46jCo03u/lodestone-1.21.1-1.7.1.jar
+  file_name: lodestone-1.21.1-1.7.1.jar
+  file_size: 675765
+  version_id: '46jCo03u'
+  hashes:
+    sha1: bd0c9548412abbb7f164f12af70311ef268435d0
+    sha512: '6d206540abf86f1fc21c47857399a372eed47f9ef5ab27073fb26c6377f0956ff869927894b9698b8459001bf76ee44eb18d7cfc00ee60e36059c826d0be8a86'

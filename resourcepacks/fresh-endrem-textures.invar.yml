@@ -1,0 +1,16 @@
+id: fresh-endrem-textures
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/3uFQpQX2/versions/Pna2jySC/fresh-endrem-textures.zip
+  file_name: fresh-endrem-textures.zip
+  file_size: 211735
+  version_id: Pna2jySC
+  hashes:
+    sha1: a429724a89d2710bc607201383bb96775d52b432
+    sha512: '86b52169053a354c00a4fb6635be58ef4bb1338b92e2f18dfbece085a757978b1d6156918c404b50c66aa130dce1481fdd7d32903dcfb3a3ab173bcd0fe7110a'

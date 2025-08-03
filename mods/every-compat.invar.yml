@@ -1,0 +1,16 @@
+id: every-compat
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/eiktJyw1/versions/mZrQhjQO/everycomp-1.21-2.10.13-neoforge.jar
+  file_name: everycomp-1.21-2.10.13-neoforge.jar
+  file_size: 2505058
+  version_id: mZrQhjQO
+  hashes:
+    sha1: '5de2127f3c40c5d8292ec741b1f497f6dc036e25'
+    sha512: d4dd9a56572ab0c01863d17f728e2606ec10d13ce98898a5b239f6b3daacdcd64c45840de4902731472598089ce38d631372c527a2b6c206ab7771b595b6e954

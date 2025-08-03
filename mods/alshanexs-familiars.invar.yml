@@ -1,0 +1,16 @@
+id: alshanexs-familiars
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/GmF3uubs/versions/19KDfd5x/alshanex_familiars-1.21.1_v2.0_HotFix.jar
+  file_name: alshanex_familiars-1.21.1_v2.0_HotFix.jar
+  file_size: 22971563
+  version_id: '19KDfd5x'
+  hashes:
+    sha1: '3a900d678f2edee9725e64362ef450726fd6541c'
+    sha512: '0aba9133e67844d464de78de8220a9214811c3747bc7f85b91b276055b333fb49103bf681defbf390b65ef871f30bc078e16ee7ec1407bdec8a3cf7409de7ee9'

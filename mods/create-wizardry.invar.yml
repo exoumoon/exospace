@@ -1,0 +1,16 @@
+id: create-wizardry
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OeGdeWEj/versions/w1yMnvhH/create_wizardry-0.2.6.jar
+  file_name: create_wizardry-0.2.6.jar
+  file_size: 73007
+  version_id: w1yMnvhH
+  hashes:
+    sha1: c6a4966cc906d1ed1eca328bafa3b278f856d020
+    sha512: af18181930ba6fd098df13deb8f01214fbdf90530a30d3049f3b498647d5ad1d72c36f5c58913b731842524d5f7c63556a7c1d7684b613472e8fa29ed08ad663

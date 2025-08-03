@@ -1,0 +1,16 @@
+id: mobs-refreshed-+-fresh-animations
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/IZyRn6LS/versions/S5z6zWOq/mobs-refreshed-fa-v2.2.zip
+  file_name: mobs-refreshed-fa-v2.2.zip
+  file_size: 658048
+  version_id: S5z6zWOq
+  hashes:
+    sha1: '415898b4b8ec3520429318d62cef7b37494c7bf9'
+    sha512: e987c45b88c3882a80d09e4ef1196064e0be6db6d4f01a946325e8709bd994f3c40401a7e6a5ef12947d3e6bc8ac39eaac0918ab16205a03fc3c147edfd0f24c

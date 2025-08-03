@@ -1,0 +1,16 @@
+id: item-highlighter
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/cVNW5lr6/versions/AsQ0Y2G9/Highlighter-1.21-neoforge-1.1.11.jar
+  file_name: Highlighter-1.21-neoforge-1.1.11.jar
+  file_size: 30417
+  version_id: AsQ0Y2G9
+  hashes:
+    sha1: '22d29eba774530b40a540fdf5ce2d14d89bbe036'
+    sha512: '41e1d2b3f73cf81b94563f04877528d0076672f95a456e959ca8f72162c8803bb9cf5ad540d1fbd15642a1d974bf11362a6b161003cd0853de050a443458a13b'

@@ -1,0 +1,16 @@
+id: incubation
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/A4Xrv60A/versions/QcIN5yA2/incubation-1.21.1-5.0.0.jar
+  file_name: incubation-1.21.1-5.0.0.jar
+  file_size: 482704
+  version_id: QcIN5yA2
+  hashes:
+    sha1: '95d7616d115d6b3d0a8222dfcaab0ae638dad5be'
+    sha512: a4d9e2da140343577a30781441fbf0766206313b86e15e4009901712bbbfae5ee30da08daa3886105ae494dfdb8c73085b0dfdf06efbfbe249c9923585417faa

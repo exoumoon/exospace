@@ -1,0 +1,16 @@
+id: kirin
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9aNz8Zqn/versions/C6d2v7d7/kirin-1.21.0%2B1.21.jar
+  file_name: kirin-1.21.0+1.21.jar
+  file_size: 128908
+  version_id: C6d2v7d7
+  hashes:
+    sha1: '31fc005f11c8a3568a5e55c3b32e32ea89f46612'
+    sha512: a67ffe2cdcae1d3cbaab44f8c1d30e5193c929beb1f31e0915a2f5cbcba51e95fb9c8e75cdab4c42f083de73c1ca85c70e67d97257086175eb9feeb8ef72c979

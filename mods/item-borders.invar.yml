@@ -1,0 +1,16 @@
+id: item-borders
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/b1fMg6sH/versions/WjErgKWV/ItemBorders-1.21-neoforge-1.2.5.jar
+  file_name: ItemBorders-1.21-neoforge-1.2.5.jar
+  file_size: 23511
+  version_id: WjErgKWV
+  hashes:
+    sha1: b5ae56007c0bbb86b9a05f9f12b522ed485d7884
+    sha512: '050917782aba18d6f5bd9cc71462e96195d2124e8a99f538ac40c45e38de69e0f95fce4efa3835b6df364ac543ede7a5ec6084b78e03fe15a072ed3cee05e4f5'

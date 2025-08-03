@@ -1,0 +1,16 @@
+id: polytone
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/3qAYkBMB/versions/cV4EyNXY/polytone-1.21-2.5.7.jar
+  file_name: polytone-1.21-2.5.7.jar
+  file_size: 660973
+  version_id: cV4EyNXY
+  hashes:
+    sha1: e836e1ebfbc334acf9fdb0fb5907c27fe927a7ca
+    sha512: d9d57f33f794416f2d50d9b89254b0f04bf99a8e4810dcadbdfb0edc35006dcaf08685c39db4956933f50d0c4755300b0653dd5d78640878437199a79175f93c

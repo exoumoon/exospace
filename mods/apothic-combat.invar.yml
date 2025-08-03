@@ -1,0 +1,16 @@
+id: apothic-combat
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/N29BujGY/versions/8gwHTe22/apothiccombat-1.2.1.jar
+  file_name: apothiccombat-1.2.1.jar
+  file_size: 11349
+  version_id: '8gwHTe22'
+  hashes:
+    sha1: '01c58c5fa571179832b53fd121b9f32b36880c44'
+    sha512: '8176ec8107465aa02a46548b74d391657358888bee01e76708d5ab679b10dad3dad80f7d030a3ba5c5fe730601087081a167ade4a6cef8238967188a998a667d'

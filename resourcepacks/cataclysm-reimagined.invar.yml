@@ -1,0 +1,16 @@
+id: cataclysm-reimagined
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/jLzGG7fO/versions/UaFRO3cy/Cataclysm%20Reimagined%20v1.3%201.21.1.zip
+  file_name: Cataclysm Reimagined v1.3 1.21.1.zip
+  file_size: 64792
+  version_id: UaFRO3cy
+  hashes:
+    sha1: '07b60f826824018453e7cfa028ecc19778d8a3a1'
+    sha512: b8f8962b3e90c76e79b40902a6df3cbe3eb51880d643810655b66a0da9d66a567b4ab661395ab9219f4572cb1467df7fd1be6ad8503b5c140973b785dccccd54

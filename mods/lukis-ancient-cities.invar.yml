@@ -1,0 +1,16 @@
+id: lukis-ancient-cities
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/13uF4XO7/versions/WZaYyJ55/lukis-ancient-cities-1.1.jar
+  file_name: lukis-ancient-cities-1.1.jar
+  file_size: 1585189
+  version_id: WZaYyJ55
+  hashes:
+    sha1: '2ab5748e9b8c472c7487de13b6807373ab8dbe17'
+    sha512: '42ace67927d81acb4feac4ebe6a04082adeb3da48df6ecdba5c2e408dc7896b4ee2ccdc634da703bd0d4cb11580a054a0b1c52113a97f0143ce8824c0db9f681'

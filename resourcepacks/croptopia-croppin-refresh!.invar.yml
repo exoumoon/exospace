@@ -1,0 +1,16 @@
+id: croptopia-croppin-refresh!
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/dIJpiHDp/versions/9IH5IQ0U/Crop%20N%20Refresh%202.0.zip
+  file_name: Crop N Refresh 2.0.zip
+  file_size: 1064919
+  version_id: '9IH5IQ0U'
+  hashes:
+    sha1: f0e36fc0de84afd8611d85b6f0fb8050525d26a5
+    sha512: '8fa9e557ca284d608343bdb3776945e57bb0e7c0860ea4551c2026e3b6ff978dcc6aba28fb57883c0e0e9ae6df9f415da52071868ab41e6c97fbe095d9f4646b'

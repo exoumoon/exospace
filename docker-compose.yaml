@@ -7,7 +7,7 @@ services:
     - '25565:25565'
     environment:
       SEED: 0
-      ICON: https://avatars.githubusercontent.com/u/175053991?s=200&v=4
+      ICON: /server-icon.png
       VERSION: '1.21.1'
       EULA: 'TRUE'
       USE_AIKAR_FLAGS: true
@@ -33,5 +33,9 @@ services:
       type: bind
     - source: export/exospace-latest.mrpack
       target: /data/modpack.mrpack
+      type: bind
+      read_only: true
+    - source: assets/server-icon.png
+      target: /server-icon.png
       type: bind
       read_only: true

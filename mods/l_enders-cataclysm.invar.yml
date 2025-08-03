@@ -1,0 +1,16 @@
+id: l_enders-cataclysm
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/46KJle7n/versions/q4S0G33N/L_Ender%27s%20Cataclysm%201.21.1-3.11.jar
+  file_name: L_Ender's Cataclysm 1.21.1-3.11.jar
+  file_size: 138074116
+  version_id: q4S0G33N
+  hashes:
+    sha1: '8bbdcb45e3136bc598933f64bd9487db09a2ae08'
+    sha512: '8c3d201d457e2914458fdef3812bd994b5de8ff018b03533b2d85e2c2175306ab817baa7eb48deaabf933a31bad2034bdade69338cf20a41550c26046defeff6'

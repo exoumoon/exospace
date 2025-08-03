@@ -1,0 +1,16 @@
+id: malum
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/jgzwYsAN/versions/DPwO66EL/malum-1.21.1-1.7.3.1.jar
+  file_name: malum-1.21.1-1.7.3.1.jar
+  file_size: 30769743
+  version_id: DPwO66EL
+  hashes:
+    sha1: e838ccd28f4083439830363495db4609af3743c7
+    sha512: '7cb0a59252f89770c602d85b574a3ab734c3374389198afcd37a08d8158a253b45c7de5003189e5bbeb42eb2cc8ff7dccb8a644e654de1c580806529cf2dcca0'

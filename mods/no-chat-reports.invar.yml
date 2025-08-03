@@ -1,0 +1,16 @@
+id: no-chat-reports
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar
+  file_name: NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar
+  file_size: 306668
+  version_id: ZV8eL55E
+  hashes:
+    sha1: '9edfc7861277ff661141304dc8216f83eacdd9af'
+    sha512: '292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21'

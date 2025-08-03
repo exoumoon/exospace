@@ -1,0 +1,16 @@
+id: berry-good
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/2WZWaKCl/versions/dJvvZvQk/berry_good-1.21.1-8.0.0.jar
+  file_name: berry_good-1.21.1-8.0.0.jar
+  file_size: 3063228
+  version_id: dJvvZvQk
+  hashes:
+    sha1: e728645b80a7d6cca9a3a6949995e80d565b108b
+    sha512: '0fea9a289d39e0d722a323d5777bede66d4850655377c923cd4cae2f864b0e994fc87b0e75df7bd50683f40f08f509a77f3107c9956169326a0c184d7f092970'

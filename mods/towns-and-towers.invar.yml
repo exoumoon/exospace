@@ -1,0 +1,16 @@
+id: towns-and-towers
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/DjLobEOy/versions/MntMLupc/t_and_t-neoforge-fabric-1.13.2.jar
+  file_name: t_and_t-neoforge-fabric-1.13.2.jar
+  file_size: 3641948
+  version_id: MntMLupc
+  hashes:
+    sha1: '7e7d4e24a2d0ad3d85de430d2b15ff3e525322cf'
+    sha512: e79fffaf3ab556802701f6a2ff2843b8a1894c683621e63a05d5e4ceedb5f8d36ebeb1788e9c0768b0fef5169e8a4b8da6fb2a2ad829d0b0aa1cb0504322a50e

@@ -1,0 +1,16 @@
+id: loot-journal
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OJ6ZYz5L/versions/vnC2WTix/loot_journal-neoforge-1.21.1-4.0.1.jar
+  file_name: loot_journal-neoforge-1.21.1-4.0.1.jar
+  file_size: 38231
+  version_id: vnC2WTix
+  hashes:
+    sha1: d788686590699cd605490c8eea35aeded899edc9
+    sha512: '738be303f84a82434cdbef2289284751d3b708611b26c8c032b57c40cfbee00cf587fc114968300e5e29ba9e19c3dca576567e05f84c9872849dc461f14d00fe'

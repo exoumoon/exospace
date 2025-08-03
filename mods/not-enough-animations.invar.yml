@@ -1,0 +1,16 @@
+id: not-enough-animations
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/MPCX6s5C/versions/4EIT5Pbb/notenoughanimations-neoforge-1.10.1-mc1.21.jar
+  file_name: notenoughanimations-neoforge-1.10.1-mc1.21.jar
+  file_size: 841389
+  version_id: '4EIT5Pbb'
+  hashes:
+    sha1: e6beacbae500e36cfb20f9be1e44ce4ce1ea1d1e
+    sha512: '680ecb299659eba94a5f8b2cfebe6ad95909ff5e72360be2f0f717961a9361a01520e590f195928a94cbb764d906e15d7b9d03df47bffa2dbb8bc6256cf6a738'
