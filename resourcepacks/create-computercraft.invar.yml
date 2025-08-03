@@ -1,0 +1,16 @@
+id: create-computercraft
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/mh9nQqo4/versions/KGjoGhyf/Create%20Computers%201.2.1%20-%201.20.1%20Resource%20Pack%20Only.zip
+  file_name: Create Computers 1.2.1 - 1.20.1 Resource Pack Only.zip
+  file_size: 271976
+  version_id: KGjoGhyf
+  hashes:
+    sha1: '89523056b726cab84f99540954d071a5f57ee8ea'
+    sha512: '61606ef330b2ed87282fc0139e0ee64ce9021d400bce7e82493a4c1821c434fa65ef04fb5ba2df701dec52a95976fc967dc4853d63f53100c5d6ad2eadc9c9f4'

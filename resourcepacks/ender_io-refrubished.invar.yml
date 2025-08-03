@@ -1,0 +1,16 @@
+id: ender_io-refrubished
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9ekF0QRe/versions/J6mNoWFE/enderio-refrubished-preview.zip
+  file_name: enderio-refrubished-preview.zip
+  file_size: 276752
+  version_id: J6mNoWFE
+  hashes:
+    sha1: ad8240a1f801493c4cfdda2621caff59c03306f0
+    sha512: fa06a914b32202bc79faa72a31d5f2cf527e196510166c099abb826545ced8e92415dc77f791b9acd5c16327abde7193973088a4f240f87bc68993527010f39a

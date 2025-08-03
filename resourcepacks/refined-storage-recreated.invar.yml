@@ -1,0 +1,16 @@
+id: refined-storage-recreated
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Qsuykqni/versions/rLnHYXwj/Refined%20Storage%20-%20ReCreated%20v0.7.zip
+  file_name: Refined Storage - ReCreated v0.7.zip
+  file_size: 907762
+  version_id: rLnHYXwj
+  hashes:
+    sha1: '5e5added2274a4a45e0c15c868eefad665fe6e52'
+    sha512: '8ce1a63d4ed448a9f30d752fdb3bda823f85262babf02f34c2ff1b61d9b0fe96f9934d422b62b7369cc93b6d52def1916956dfab8ae9d2963a8ae85841247baa'

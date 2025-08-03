@@ -1,0 +1,16 @@
+id: storagedrawers
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/guitPqEi/versions/PCGykjTd/Storage%20Drawers-neoforge-1.21.1-13.8.11.jar
+  file_name: Storage Drawers-neoforge-1.21.1-13.8.11.jar
+  file_size: 996522
+  version_id: PCGykjTd
+  hashes:
+    sha1: '70cfab6a97af5beddfd2a0b3130e0f7bc79eca5b'
+    sha512: '1468e559a6815764ac9c74d89092a33e6018ca5761c27b565d32eb832c2a8856c5c4b548ca2c4e74221821c809ef1450b7cc6e81a0312db8c5a07a71f35399ab'

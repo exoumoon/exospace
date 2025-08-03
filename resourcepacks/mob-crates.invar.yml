@@ -1,0 +1,16 @@
+id: mob-crates
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/bYcjtBki/versions/2516VXh2/MobCrates_1.21_v1.zip
+  file_name: MobCrates_1.21_v1.zip
+  file_size: 322082
+  version_id: '2516VXh2'
+  hashes:
+    sha1: dcabbe29acc5257667c0f3c3471d42b31ad11183
+    sha512: '18d0996701b4085fa85592d0ef30a01723677d0b532b95dfd121a6f3d2567568098654951da75e7b0f14c9c79d967a0bc0237ac0777b0de23aa3568136c87179'

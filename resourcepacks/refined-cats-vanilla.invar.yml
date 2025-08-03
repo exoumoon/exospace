@@ -1,0 +1,16 @@
+id: refined-cats-vanilla
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/8lfE6v33/versions/Sh8XGjvm/RefinedCatsVanilla_v2.1.3.zip
+  file_name: RefinedCatsVanilla_v2.1.3.zip
+  file_size: 1427262
+  version_id: Sh8XGjvm
+  hashes:
+    sha1: '4be606fd376fee379f2a32cde956c082f64aaed1'
+    sha512: '0a40ae3bdf7d701f7ea3f0e6bfb5761c135030b0e05692a4771001a53edd23adccb1f55e1045fe79df0f1f2ecb2e09d5bc7f8bfb7a324c4b5f141a0dbacfc31c'

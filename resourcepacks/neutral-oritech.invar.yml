@@ -1,0 +1,16 @@
+id: neutral-oritech
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/pgmr8XoY/versions/ts3WOYH1/Neutral%20Oritech.zip
+  file_name: Neutral Oritech.zip
+  file_size: 506179
+  version_id: ts3WOYH1
+  hashes:
+    sha1: '5f3d0040eeb515129f6ffceb3f6e6a3f9f34114b'
+    sha512: '3c776064213aa85b429024632e64aeeb23d3898e9ba5c997ff74064e36e42b1344fbef95e540ce93e70b26107a3eec48d7958fa478f4c395aaf37233886f9192'

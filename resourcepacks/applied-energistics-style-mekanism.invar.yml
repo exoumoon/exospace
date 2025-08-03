@@ -1,0 +1,16 @@
+id: applied-energistics-style-mekanism
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/YQtIo6Qd/versions/nwFoY7cr/Applied%20Mekanism%20v1.0%20for%201.21.1.zip
+  file_name: Applied Mekanism v1.0 for 1.21.1.zip
+  file_size: 344826
+  version_id: nwFoY7cr
+  hashes:
+    sha1: '03c384ab59479c76ebdd55808965f604d2cba700'
+    sha512: '5cf51290796b793b82d77c69bf1acd9e38bad3c99200168673bdaa2564c8dd4687357729efee2e9a0eb4cdfefee5f6ed0212a84c99d62f34d3829b7677109c76'

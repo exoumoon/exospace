@@ -1,0 +1,16 @@
+id: rappenems-reforge
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/bpCFbDTV/versions/oYuX6fRe/Rappenem%27s%20Reforge%20v1.1.zip
+  file_name: Rappenem's Reforge v1.1.zip
+  file_size: 2641497
+  version_id: oYuX6fRe
+  hashes:
+    sha1: '184d4ff88e8d77be025f5d785b87a0db572c126e'
+    sha512: '94edbd4312659abe6ae41912fb889cae2f1989d07d54534be8057452c2f03c53f5f985c5b99cb31961927e96f9313bf428e7d2b338c99e17f77fbf99fc0fcfea'

@@ -1,0 +1,16 @@
+id: supermartijn642s-core-lib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/rOUBggPv/versions/I55kQvEh/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar
+  file_name: supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar
+  file_size: 518643
+  version_id: I55kQvEh
+  hashes:
+    sha1: '21c75db63ca1d8b8972a94a71c9c7ec0549e1be0'
+    sha512: '6f37d2f76928f1421d7ec4f60dead6ad806606f7a25f0545c547316513284f309396b221749328579c76d75a70fdf22e6f953b27abc5c78f2c2d68f2dfa545bb'

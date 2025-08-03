@@ -1,0 +1,16 @@
+id: copycats
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/UT2M39wf/versions/wj2p9GZw/copycats-3.0.2%2Bmc.1.21.1-neoforge.jar
+  file_name: copycats-3.0.2+mc.1.21.1-neoforge.jar
+  file_size: 1790416
+  version_id: wj2p9GZw
+  hashes:
+    sha1: '49344745546ad3ee7c3bfeb8f846abdffcf4e5a4'
+    sha512: '9032a85fdb1619eaab22947805591ea44c065f7cc20baef95a75331eaee2d8d3ef32b935949215c5cafa625834aed49b728bf70818f4de5bebb4ea9261363105'

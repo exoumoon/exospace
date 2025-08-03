@@ -1,0 +1,16 @@
+id: universal-grid
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/kpMfA312/versions/1r81Rbk8/universalgrid-neoforge-1.21.1-0.2.0.jar
+  file_name: universalgrid-neoforge-1.21.1-0.2.0.jar
+  file_size: 68866
+  version_id: '1r81Rbk8'
+  hashes:
+    sha1: e88013b2b1f15c115bc0db3b66bdae0fc6ec14da
+    sha512: '0b0932d288c0804091552940dd960adc404496ac4c5c7a17a7038bcc7e756e7a8671f8ea1c6e3dfac5b5aa7779c60edb8d7d1c765ea8027034a7c9a19173d79b'

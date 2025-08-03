@@ -1,0 +1,16 @@
+id: oritech
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4sYI62kA/versions/RTk5QFtz/oritech-neoforge-0.15.2.jar
+  file_name: oritech-neoforge-0.15.2.jar
+  file_size: 8258576
+  version_id: RTk5QFtz
+  hashes:
+    sha1: a1b8ee5aa8c5b431db917290f96b93f6707e8542
+    sha512: eb66606fffeb2b50ed1cbff1ff09f697ab0b1dc458ba0788f61ecbb4ea1160cef78ee5f91a3d45fc397e98f7c24ebb4411a71dbf68ac3990f2cbab3de4d9abde

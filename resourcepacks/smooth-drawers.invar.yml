@@ -1,0 +1,16 @@
+id: smooth-drawers
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/85Qf7nOT/versions/evMS3sur/SmoothDrawers_1.21.1_v2.zip
+  file_name: SmoothDrawers_1.21.1_v2.zip
+  file_size: 280765
+  version_id: evMS3sur
+  hashes:
+    sha1: '1e6e81bdb7f4e366e4659e57ea013d833e7aa66a'
+    sha512: e4955d3aa04e6a0bc10435d7a51809cfdf741d0b1cc4e6fe59f8d4670f5f5e884700af60ab18d88a81c744083e4baf4f36698e05f7eb1e88ce9e40d491bc7d59

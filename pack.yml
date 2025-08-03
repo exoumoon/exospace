@@ -5,9 +5,9 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
+  - fabric
   - forge
   - minecraft
-  - fabric
 settings:
   vcs_mode: track_components
 local_components:
@@ -16,4 +16,6 @@ local_components:
 - path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/bliss-shader-unstable.zip
   category: shader
 - path: /home/mxxntype/Projects/Minecraft/exospace/config/resourcepackoverrides.json
+  category: config
+- path: /home/mxxntype/Projects/Minecraft/exospace/config/item_obliterator.json5
   category: config

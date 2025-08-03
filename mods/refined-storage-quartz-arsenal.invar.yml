@@ -1,0 +1,16 @@
+id: refined-storage-quartz-arsenal
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gnwGOmBf/versions/645DP5Ya/refinedstorage-quartz-arsenal-neoforge-1.0.2.jar
+  file_name: refinedstorage-quartz-arsenal-neoforge-1.0.2.jar
+  file_size: 66533
+  version_id: '645DP5Ya'
+  hashes:
+    sha1: a2fad0a1626a00afabbdc9d2d150b9ce53ca759d
+    sha512: d3d6e0c8bee21e3240cc534d75d7300c8671c8124c6522d2f8fcb9165e80819440c771fd64bc978017cabaa2a60ada635a6981af382c698d1fb7b2056246c74f

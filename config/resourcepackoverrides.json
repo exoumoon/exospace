@@ -23,12 +23,23 @@
 		"file/excalibur-vanilla-model-leaves.zip",
 		"file/fallen-adventurers-excalibur.zip",
 
-		"rprenames:default_dark_mode",
-		"file/unique-dark.zip",
-		"file/aseprite-fonts.zip",
-
+		"file/rappenems-reforge.zip",
+		"file/create-style-hopper.zip",
+		"file/refined-storage-recreated.zip",
+		"file/ender_io-refrubished.zip",
+		"file/neutral-oritech.zip",
+		"file/smooth-drawers.zip",
+		"file/create-sophisticated-backpacks.zip",
+		"file/create-computercraft.zip",
+		"file/refined-cats-vanilla.zip",
 		"file/blues-better-monsters.zip",
-		"file/twc.zip"
+		"file/mob-crates.zip",
+		"file/twc.zip",
+
+		"rprenames:default_dark_mode",
+		"file/applied-energistics-style-mekanism.zip",
+		"file/unique-dark.zip",
+		"file/aseprite-fonts.zip"
 	],
 
 	"default_overrides": {

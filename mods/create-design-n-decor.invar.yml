@@ -1,0 +1,16 @@
+id: create-design-n-decor
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar
+  file_name: Design-n-Decor-1.21.1-2.1.0.jar
+  file_size: 3264862
+  version_id: m6PCLHcp
+  hashes:
+    sha1: '6ff962a9c2e9cc9abdc6de0b01f834839ce7fed1'
+    sha512: '4aedb1e3a3fe67b391b5c877e094c6cbb5eb395b4f3173b860c90e2ea4e803d1367fd6593bb378184ad46991cf2d5c656444e60edebecf9887e053f29e9e5a9f'
