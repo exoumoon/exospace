@@ -1,0 +1,16 @@
+id: applied-energistics-2-wireless-terminals
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/pNabrMMw/versions/UOlbVk0Q/ae2wtlib-19.2.5.jar
+  file_name: ae2wtlib-19.2.5.jar
+  file_size: 237860
+  version_id: UOlbVk0Q
+  hashes:
+    sha1: d04630f34452f813e481e65799204bdf0082a36d
+    sha512: '64faa15ff938b29cb2c44dd55a96c3d2ee4e6310c5840b1c427ba87f70a0eac88dfd0e5850103d8bc27da4f87d6ff138b1693691c68c5f4b292ebc74d6171561'

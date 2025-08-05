@@ -1,0 +1,16 @@
+id: extended-ae
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/JiOqfoFM/versions/TyGULeZ3/ExtendedAE-1.21-2.2.12-neoforge.jar
+  file_name: ExtendedAE-1.21-2.2.12-neoforge.jar
+  file_size: 1717108
+  version_id: TyGULeZ3
+  hashes:
+    sha1: bd35034b952e38b01b6734737f76470d05ec01c1
+    sha512: b5b408b18dc3c59d41f5b09105e90c2b449f496b365232485569555b2e9014c2217047c42e737e34ad66d04c833d9cb9d547cb49b45be95f3c71b615e504189d

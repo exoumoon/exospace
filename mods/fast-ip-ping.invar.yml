@@ -1,0 +1,16 @@
+id: fast-ip-ping
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9mtu0sUO/versions/eqzWgurh/fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar
+  file_name: fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar
+  file_size: 10332
+  version_id: eqzWgurh
+  hashes:
+    sha1: '2afa1ce5969c90ecae1ab148783cab5a89f54d4b'
+    sha512: '37acea2d6da92cc82252a64da6f77c5bdc3bb9ca25c3cbbb3555c204f3594fbb7524be4b63887448ed5ea2b32de72b99513b8f2d3a19a35fff525442cf228641'
