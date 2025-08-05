@@ -1,0 +1,16 @@
+id: flashfreeze
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OX7oyAQX/versions/fMXSX4ND/flashfreeze-neoforge-0.4.1%2B1.21.1.jar
+  file_name: flashfreeze-neoforge-0.4.1+1.21.1.jar
+  file_size: 96971
+  version_id: fMXSX4ND
+  hashes:
+    sha1: db6a8baa91597d7af575670482f261d7356c9132
+    sha512: '77fc2477491a7c0a17cb863f5794d275fcf07d4626c66a7cfc100b8682a49e47f0eb434739d46487d63eed360bedf2754e7d3162d0fbe76bb4c708904f608195'

@@ -1,0 +1,16 @@
+id: patchouli
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/nU0bVIaL/versions/h6hKI2ob/Patchouli-1.21.1-92-NEOFORGE.jar
+  file_name: Patchouli-1.21.1-92-NEOFORGE.jar
+  file_size: 646486
+  version_id: h6hKI2ob
+  hashes:
+    sha1: '97ae42096ee4a0a242cd8468dde293017f3cc39c'
+    sha512: '36cad2a2e5839fd4ee99165c4f275d1c3c0c71ed130413485e43f8506e7d2c3de2e2dbad40f90262378c6c6c5148140a473b0f7acd806e1a4bfede9c9a04600f'

@@ -27,7 +27,7 @@ services:
       ENABLE_AUTOPAUSE: false
       MAX_PLAYERS: 8
       TYPE: MODRINTH
-    restart: on-failure
+    restart: no
     volumes:
     - source: server
       target: /data

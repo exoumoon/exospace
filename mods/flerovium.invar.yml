@@ -1,0 +1,16 @@
+id: flerovium
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4Rh1Mobu/versions/vNcAVVK0/flerovium-neoforge-1.21.1-1.0.10-all.jar
+  file_name: flerovium-neoforge-1.21.1-1.0.10-all.jar
+  file_size: 152883
+  version_id: vNcAVVK0
+  hashes:
+    sha1: '178d8cbcad8c835b8608fbcffbb61c9c4db6b290'
+    sha512: eee3195e1badf9be8a2238331be96efd45786bd01cfb4affe82f28837609aa433164b20a4b55db9cfadd133dc8603c5c142c247fa4b6df835a0dfba94e364325

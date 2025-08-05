@@ -1,0 +1,16 @@
+id: smsn
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/oXzIQwRj/versions/3HAtFKuL/smsn-neoforge-1.2.5%2Bmc1.21.1.jar
+  file_name: smsn-neoforge-1.2.5+mc1.21.1.jar
+  file_size: 134367
+  version_id: '3HAtFKuL'
+  hashes:
+    sha1: '9acdb7c97478a704754978c711271cb8fea5523d'
+    sha512: '0e2bc5529e89db6fbb8bdd0ac4ae4011e4e808d7a22b80b8510bcea52d2dc4188a4fe623e7f1dbeb67c05100d591db89b67b916002374ad1497cf874237363be'

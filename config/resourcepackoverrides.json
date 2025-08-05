@@ -21,6 +21,7 @@
 		"file/excalibur-ribbits-support.zip",
 		"file/excalibur-supplementaries-support.zip",
 		"file/excalibur-vanilla-model-leaves.zip",
+		"file/excal-illager-invasion-support.zip",
 		"file/fallen-adventurers-excalibur.zip",
 
 		"file/rappenems-reforge.zip",
@@ -35,12 +36,11 @@
 		"file/croptopia-croppin-refresh!.zip",
 		"file/apotheotic-tweaks.zip",
 		"file/refined-cats-vanilla.zip",
-		"file/blues-better-monsters.zip",
 		"file/mobs-refreshed.zip",
 		"file/mobs-refreshed-+-fresh-animations.zip",
+		"file/blues-better-monsters.zip",
 		"file/golems-refreshed.zip",
 		"file/golems-refreshed-+-fresh-animations.zip",
-		"file/boss-refreshed.zip",
 		"file/mob-crates.zip",
 		"file/cataclysm-reimagined.zip",
 		"file/twc.zip",
@@ -76,7 +76,7 @@
 			"required": false
 		},
 
-		"excalibur": [
+		"everything": [
 			"file/excal.zip",
 			"file/clarent.zip",
 			"file/fresh-animations.zip",
@@ -90,10 +90,42 @@
 			"file/excalibur-ribbits-support.zip",
 			"file/excalibur-supplementaries-support.zip",
 			"file/excalibur-vanilla-model-leaves.zip",
-			"file/fallen-adventurers-excalibur.zip"
+			"file/excal-illager-invasion-support.zip",
+			"file/fallen-adventurers-excalibur.zip",
+
+			"file/rappenems-reforge.zip",
+			"file/fresh-endrem-textures.zip",
+			"file/create-style-hopper.zip",
+			"file/refined-storage-recreated.zip",
+			"file/ender_io-refrubished.zip",
+			"file/neutral-oritech.zip",
+			"file/smooth-drawers.zip",
+			"file/create-sophisticated-backpacks.zip",
+			"file/create-computercraft.zip",
+			"file/croptopia-croppin-refresh!.zip",
+			"file/apotheotic-tweaks.zip",
+			"file/refined-cats-vanilla.zip",
+			"file/mobs-refreshed.zip",
+			"file/mobs-refreshed-+-fresh-animations.zip",
+			"file/blues-better-monsters.zip",
+			"file/golems-refreshed.zip",
+			"file/golems-refreshed-+-fresh-animations.zip",
+			"file/mob-crates.zip",
+			"file/cataclysm-reimagined.zip",
+			"file/twc.zip",
+
+			"file/tras-fresh-player.zip",
+
+			"rprenames:default_dark_mode",
+			"file/eclectic-trove-legendary-tooltips.zip",
+			"file/applied-energistics-style-mekanism.zip",
+			"file/unique-dark.zip",
+			"file/icons.zip",
+			"file/icons-advertisement-removal.zip",
+			"file/aseprite-fonts.zip"
 		],
 
-		"$$excalibur": {
+		"$$everything": {
 			"hidden": false,
 			"required": true,
 			"force_compatible": true

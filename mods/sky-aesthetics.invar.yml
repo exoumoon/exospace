@@ -1,0 +1,16 @@
+id: sky-aesthetics
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/2zaNpyqY/versions/M8qcK7aG/sky_aesthetics-neoforge-1.3.0.jar
+  file_name: sky_aesthetics-neoforge-1.3.0.jar
+  file_size: 103218
+  version_id: M8qcK7aG
+  hashes:
+    sha1: bc82b1a79748100e089e1ac9c6a9ee3a0c2ea924
+    sha512: '48b92a7d056b56a09cf93287c2a1e7efcbee8fffe8ccda7f6b18fca277541ab8341f71ac7ecc714e9d0a65dd961f84425b25c728265282c310553722466766e7'

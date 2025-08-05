@@ -1,0 +1,16 @@
+id: better-modlist
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/sbpqhzIG/versions/nOxWzx1Z/better_modlist-1.1.19.jar
+  file_name: better_modlist-1.1.19.jar
+  file_size: 801539
+  version_id: nOxWzx1Z
+  hashes:
+    sha1: ffd82102bf8b9bfea2484f8fc40fd8b52db88ff9
+    sha512: '78ff8b1f97660fb76163cf1069e4df83b5d5d9d6f428067ffaf0f0b3c49f53458aced2dc256143dbe5a0463d86ed15107668468714efa526f7cf35cdbf7cfd8f'

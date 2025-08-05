@@ -1,0 +1,16 @@
+id: stellaris
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ItTQpuBn/versions/4JGeVF8H/stellaris-1.21-neoforge-1.3.3.jar
+  file_name: stellaris-1.21-neoforge-1.3.3.jar
+  file_size: 8944608
+  version_id: '4JGeVF8H'
+  hashes:
+    sha1: '9eb8788ad7668e68ee4f2ef8f70f856f50fbad09'
+    sha512: '47e1a04f2df6c5726f8d91b6f1907241da9a540fdbeeffbde73485efddc7a0184909cd9da087a735a4bab64632240e3694bea88b9f857ffc4af7872a10f33a01'

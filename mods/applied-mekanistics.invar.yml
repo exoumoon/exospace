@@ -1,0 +1,16 @@
+id: applied-mekanistics
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/IiATswDj/versions/Huen69N5/Applied-Mekanistics-1.6.2.jar
+  file_name: Applied-Mekanistics-1.6.2.jar
+  file_size: 149680
+  version_id: Huen69N5
+  hashes:
+    sha1: '1d32e9a0d69f2ee723aea4e451300852f4bbff60'
+    sha512: '681510daa2368fdc1432107fabc8edb7e4ef3542ae29f1bafce36ba905edad60cba21099c9ec92af90e9406b8496de721d4b11abc43aafb9dd99a25b84662545'

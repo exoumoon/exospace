@@ -1,0 +1,16 @@
+id: almost-unified
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/sdaSaQEz/versions/ZSRQ3k7q/almostunified-neoforge-1.21.1-1.3.0.jar
+  file_name: almostunified-neoforge-1.21.1-1.3.0.jar
+  file_size: 293343
+  version_id: ZSRQ3k7q
+  hashes:
+    sha1: d4d4e89eeec0693433dd16f5cf8dbd0181ae6fe6
+    sha512: '9f517d364d2bb2339ee37a601527515fac3c35542439c9ff48de0b1bbf56df734841acf75a4ccf7750501005ebe4a5e9a01391760d5e19fdfa996e074fe3be9b'

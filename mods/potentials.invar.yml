@@ -1,0 +1,16 @@
+id: potentials
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/J9pKOkxP/versions/SKrZ8DRi/potentials-neoforge-1.21-0.7.0.jar
+  file_name: potentials-neoforge-1.21-0.7.0.jar
+  file_size: 90779
+  version_id: SKrZ8DRi
+  hashes:
+    sha1: dd86bbe13035549bf67628ecdf8c272f0bfd1621
+    sha512: b8370653054612f8a086eaea9ce6b4f4a5cfe96b7487a69bf8365fda11541a4ea65321573b93425f2b79212024a0be64587280b0741ee1eb6f67adafd6d00a52

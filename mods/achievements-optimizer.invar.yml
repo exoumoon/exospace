@@ -1,0 +1,16 @@
+id: achievements-optimizer
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/SvXrP8rT/versions/pScM0ZXm/AchievementOptimizer-neoforge-1.21.1-2.0.0.jar
+  file_name: AchievementOptimizer-neoforge-1.21.1-2.0.0.jar
+  file_size: 7842
+  version_id: pScM0ZXm
+  hashes:
+    sha1: '0a381b275b4a966e89baaf6bae04918fbc598266'
+    sha512: f57c828ceeaca84aaf862cbdcec4bb7e025acc54036da66073cd0b0d207a8e8954e18b531d28b5d6acd56041843b32db1393aebf6bf2e7fac5a63b1ad42caa15

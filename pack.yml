@@ -5,43 +5,177 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - minecraft
   - fabric
+  - minecraft
   - forge
 settings:
   vcs_mode: track_components
 local_components:
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/natures_spirit-common.toml
+- source_path: config/natures_spirit-common.toml
+  runtime_path: null
   category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/bliss-shader-unstable.zip
-  category: shader
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/resourcepackoverrides.json
+  environment:
+    client: required
+    server: required
+- source_path: config/resourcepackoverrides.json
+  runtime_path: null
   category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/item_obliterator.json5
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/item_obliterator.json5
+  runtime_path: null
   category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/connector-2.0.0-beta.8+1.21.1-full.jar
+  environment:
+    client: required
+    server: required
+- source_path: mods/connector-2.0.0-beta.8+1.21.1-full.jar
+  runtime_path: null
   category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ConnectorExtras-1.12.1+1.21.1.jar
+  environment:
+    client: required
+    server: required
+- source_path: mods/ConnectorExtras-1.12.1+1.21.1.jar
+  runtime_path: null
   category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/molten_vents-common.toml
+  environment:
+    client: required
+    server: required
+- source_path: config/molten_vents-common.toml
+  runtime_path: null
   category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/DistantHorizons.toml
+  environment:
+    client: required
+    server: required
+- source_path: config/DistantHorizons.toml
+  runtime_path: null
   category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/Apotheosis-1.21.1-8.3.6.jar
+  environment:
+    client: required
+    server: required
+- source_path: mods/Apotheosis-1.21.1-8.3.6.jar
+  runtime_path: null
   category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ApothicAttributes-1.21.1-2.9.0.jar
+  environment:
+    client: required
+    server: required
+- source_path: mods/ApothicAttributes-1.21.1-2.9.0.jar
+  runtime_path: null
   category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ApothicEnchanting-1.21.1-1.4.4.jar
+  environment:
+    client: required
+    server: required
+- source_path: mods/ApothicEnchanting-1.21.1-1.4.4.jar
+  runtime_path: null
   category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/ApothicSpawners-1.21.1-1.3.2.jar
+  environment:
+    client: required
+    server: required
+- source_path: mods/ApothicSpawners-1.21.1-1.3.2.jar
+  runtime_path: null
   category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/mods/Placebo-1.21.1-9.9.0.jar
+  environment:
+    client: required
+    server: required
+- source_path: mods/Placebo-1.21.1-9.9.0.jar
+  runtime_path: null
   category: mod
-- path: /home/mxxntype/Projects/Minecraft/exospace/resourcepacks/apotheotic-tweaks.zip
+  environment:
+    client: required
+    server: required
+- source_path: resourcepacks/apotheotic-tweaks.zip
+  runtime_path: null
   category: resourcepack
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/fml.toml
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fml.toml
+  runtime_path: null
   category: config
-- path: /home/mxxntype/Projects/Minecraft/exospace/shaderpacks/bliss-shader-unstable.zip.txt
+  environment:
+    client: required
+    server: required
+- source_path: config/betterdays-common.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/fancymenu/assets/141139-aestheticwp.png
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fancymenu/assets/exospace.png
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fancymenu/customization/title_screen_layout.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fancymenu/customization/universal_layout.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: shaderpacks/bliss-shader-unstable.zip
+  runtime_path: null
   category: shader
-- path: /home/mxxntype/Projects/Minecraft/exospace/config/betterdays-common.toml
+  environment:
+    client: required
+    server: unsupported
+- source_path: shaderpacks/bliss-shader-unstable.zip.txt
+  runtime_path: null
+  category: shader
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fancymenu/custom_gui_screens.txt
+  runtime_path: null
   category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fancymenu/customizablemenus.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fancymenu/options.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: options.txt
+  runtime_path: options.txt
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/connector.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/emi.css
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/inventoryprofilesnext/inventoryprofiles.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported

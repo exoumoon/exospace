@@ -1,0 +1,16 @@
+id: superresolution
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Hf3Qz2H3/versions/npyVtCea/super_resolution-neoforge-1.21..1.21.1-0.8.0-alpha.1.jar
+  file_name: super_resolution-neoforge-1.21..1.21.1-0.8.0-alpha.1.jar
+  file_size: 20664706
+  version_id: npyVtCea
+  hashes:
+    sha1: c2efcfce0952eb954a887100a012dac3587393e0
+    sha512: '77fc0642e4aa25cc54f20b2f309815f687c9c29e759a8fbdf3159d7d387957923821d214927600f39f55a4f5d4343e57126f33c7a0fb081b303d61f14cacc55a'

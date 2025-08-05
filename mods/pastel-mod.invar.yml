@@ -1,0 +1,16 @@
+id: pastel-mod
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/5lr6fnw0/versions/ffYIwdv3/Pastel-1.1.4.1.jar
+  file_name: Pastel-1.1.4.1.jar
+  file_size: 95663738
+  version_id: ffYIwdv3
+  hashes:
+    sha1: '5077ad326058cdd6ea53ff35452fa9188bbad0f0'
+    sha512: ff32ae8c6b2fb6e08672711ca7e886d0e3c97bbe7647d871bd62f79a4fe3f4eec7f14caf1a645e7ccbc5f6ab733a48ee120dc3215b79fe6f320f9d2a9b3fca5e
