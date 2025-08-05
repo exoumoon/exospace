@@ -4,7 +4,7 @@ tags:
   main: null
   others: []
 environment:
-  client: unsupported
+  client: required
   server: required
 source: !Remote
   download_url: https://cdn.modrinth.com/data/sdaSaQEz/versions/ZSRQ3k7q/almostunified-neoforge-1.21.1-1.3.0.jar

@@ -5,9 +5,9 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - fabric
-  - minecraft
   - forge
+  - minecraft
+  - fabric
 settings:
   vcs_mode: track_components
 local_components:
@@ -176,6 +176,18 @@ local_components:
 - source_path: config/inventoryprofilesnext/inventoryprofiles.json
   runtime_path: null
   category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/mobplaques-client.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: resourcepacks/repolished-security.zip
+  runtime_path: null
+  category: resourcepack
   environment:
     client: required
     server: unsupported

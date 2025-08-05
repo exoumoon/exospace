@@ -1,0 +1,16 @@
+id: ae2-dark-mode
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/UP2ZKKkg/versions/BXpYgw04/AE2DarkMode-V1.0.6.zip
+  file_name: AE2DarkMode-V1.0.6.zip
+  file_size: 208281
+  version_id: BXpYgw04
+  hashes:
+    sha1: '74d0a02d0b0a59ef34c37ecca6bec25dcae98cc9'
+    sha512: '4341c5e6b069338942dde5a7f0e814462b2362be7a9bce31e06be27fd2c023fbb832e83ace7d03455891ccb3d03853e781f4eb09689f3c700bc4de9069dc6915'

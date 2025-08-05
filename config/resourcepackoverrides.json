@@ -43,6 +43,7 @@
 		"file/golems-refreshed-+-fresh-animations.zip",
 		"file/mob-crates.zip",
 		"file/cataclysm-reimagined.zip",
+		"file/repolished-security.zip",
 		"file/twc.zip",
 
 		"file/tras-fresh-player.zip",
@@ -50,7 +51,10 @@
 		"rprenames:default_dark_mode",
 		"file/eclectic-trove-legendary-tooltips.zip",
 		"file/applied-energistics-style-mekanism.zip",
+		"file/ae2-dark-mode.zip",
 		"file/unique-dark.zip",
+		"file/icons.zip",
+		"file/icons-advertisement-removal.zip",
 		"file/aseprite-fonts.zip"
 	],
 
@@ -112,6 +116,7 @@
 			"file/golems-refreshed-+-fresh-animations.zip",
 			"file/mob-crates.zip",
 			"file/cataclysm-reimagined.zip",
+			"file/repolished-security.zip",
 			"file/twc.zip",
 
 			"file/tras-fresh-player.zip",
@@ -119,6 +124,7 @@
 			"rprenames:default_dark_mode",
 			"file/eclectic-trove-legendary-tooltips.zip",
 			"file/applied-energistics-style-mekanism.zip",
+			"file/ae2-dark-mode.zip",
 			"file/unique-dark.zip",
 			"file/icons.zip",
 			"file/icons-advertisement-removal.zip",
