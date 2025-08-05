@@ -1,0 +1,16 @@
+id: open-parties-and-claims
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gF3BGWvG/versions/yCdwske8/open-parties-and-claims-neoforge-1.21.1-0.24.2.jar
+  file_name: open-parties-and-claims-neoforge-1.21.1-0.24.2.jar
+  file_size: 1243824
+  version_id: yCdwske8
+  hashes:
+    sha1: '6386a4cbf890c8afb54e6df8baad685a272b39fa'
+    sha512: '360d6db57810ba10e40882595eeafed108d58398009e63c0f1d11006423b2f76478dc172d09bc0880f14d59b724ac67480c4b1f7c24952b961e95ee4d3ee366e'

@@ -1,3 +1,11 @@
+networks:
+  monitoring:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  grafana_data:
+
 services:
   server:
     hostname: exospace
@@ -23,11 +31,13 @@ services:
       RCON_CMDS_FIRST_CONNECT: |
         /whitelist off
         /op mxxntype
-      MOTD: invar-server/0.6.0 | exospace | 1.21.1
+      MOTD: invar-server/0.7.0 | exospace | 1.21.1
       ENABLE_AUTOPAUSE: false
       MAX_PLAYERS: 8
       TYPE: MODRINTH
     restart: no
+    networks:
+      - monitoring
     volumes:
     - source: server
       target: /data
@@ -40,3 +50,49 @@ services:
       target: /server-icon.png
       type: bind
       read_only: true
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus_data:/prometheus
+    ports:
+      - '9090:9090'
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+  # A small Prometheus exporter written by the Prometheus team that
+  # runs on a machine and exposes host-level metrics over HTTP.
+  node_exporter:
+    image: prom/node-exporter:latest
+    container_name: node_exporter
+    command:
+      - '--path.rootfs=/host'
+    pid: host
+    volumes:
+      - '/:/host:ro,rslave'
+    ports:
+      - '9100:9100'
+    networks:
+      - monitoring
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    ports:
+      - '3000:3000'
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning
+    depends_on:
+      - prometheus
+    networks:
+      - monitoring
+    restart: unless-stopped

@@ -1,0 +1,16 @@
+id: fabricexporter
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/dbVXHSlv/versions/YcE9H1C5/fabricexporter-1.0.11.jar
+  file_name: fabricexporter-1.0.11.jar
+  file_size: 1614871
+  version_id: YcE9H1C5
+  hashes:
+    sha1: '1e109a097abb83e9c8a4c54b9653237933f75bec'
+    sha512: '92882682995391262d8f640ec200341155596722a8b29e1dedfe669d0cd7669f8510965a7a6198ca1ef11a8e7a2c87b14480d1466991a19854efc94c9cc84e8d'
