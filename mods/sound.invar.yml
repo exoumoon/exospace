@@ -1,0 +1,16 @@
+id: sound
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ZouiUX7t/versions/oGI3d87a/sounds-2.4.13.1%2Blts%2B1.21.1%2Bneoforge.jar
+  file_name: sounds-2.4.13.1+lts+1.21.1+neoforge.jar
+  file_size: 8731169
+  version_id: oGI3d87a
+  hashes:
+    sha1: eaba2161deb801494bbc5be6bcc3479e4b1f14b1
+    sha512: da76ab97608219ba83340f43c1e175e59fbeb4eb3be4d54f9507ff5228946bb7a6a216c351d69b2fd209ad94237018604000ed16125724c519ef975e544fc086

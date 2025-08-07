@@ -1,0 +1,16 @@
+id: rsls
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/SKW62Pht/versions/P5tLMwTc/rsls-neoforge-1.1.8.jar
+  file_name: rsls-neoforge-1.1.8.jar
+  file_size: 39244
+  version_id: P5tLMwTc
+  hashes:
+    sha1: '8876aa56857dca387db020725c5dee223f284003'
+    sha512: ee4db20807683a7d19915d404d5f39dac29b6b5dbc76ed7ce6d2334ecb5c070535e6400fc9a5dbbbca341ca1e5e1345721290334d1667cfe99efb52896475fb0
