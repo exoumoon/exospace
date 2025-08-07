@@ -191,3 +191,15 @@ local_components:
   environment:
     client: required
     server: unsupported
+- source_path: config/sereneseasons/fertility.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/sereneseasons/seasons.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
