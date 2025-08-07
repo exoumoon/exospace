@@ -5,9 +5,9 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
+  - fabric
   - forge
   - minecraft
-  - fabric
 settings:
   vcs_mode: track_components
 local_components:
@@ -200,6 +200,18 @@ local_components:
 - source_path: config/sereneseasons/seasons.toml
   runtime_path: null
   category: config
+  environment:
+    client: required
+    server: required
+- source_path: mods/framework-neoforge-1.21.1-0.9.6.jar
+  runtime_path: null
+  category: mod
+  environment:
+    client: required
+    server: required
+- source_path: mods/mighty_mail-neoforge-1.21.1-1.1.4.jar
+  runtime_path: null
+  category: mod
   environment:
     client: required
     server: required
