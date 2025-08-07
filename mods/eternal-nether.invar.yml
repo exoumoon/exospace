@@ -1,0 +1,16 @@
+id: eternal-nether
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/s6R4jmL8/versions/wfHip7bI/EternalNether-v21.1.3-1.21.1-NeoForge.jar
+  file_name: EternalNether-v21.1.3-1.21.1-NeoForge.jar
+  file_size: 7395290
+  version_id: wfHip7bI
+  hashes:
+    sha1: '3460532417842063306c5a12428b3c877e18d073'
+    sha512: '9e01797c9af3b9c4083199342793990ca65e3af69806a886743ec69f7d6edb9123b33d4ad14ce3367be2537985af3585f56886c468fe3aa3af70982c590024d8'

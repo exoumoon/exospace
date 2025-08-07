@@ -1,0 +1,16 @@
+id: durability-tooltip
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/smUP7V3r/versions/mmYe9e5V/durabilitytooltip-1.1.6-neoforge-mc1.21.jar
+  file_name: durabilitytooltip-1.1.6-neoforge-mc1.21.jar
+  file_size: 20015
+  version_id: mmYe9e5V
+  hashes:
+    sha1: '59a567402d894b46d6abe45831f39dcad5c93342'
+    sha512: '006f06ddab40fdfddd7fdbf0ef5bef9f20d9a288e6e75e5efb97a31ec481d50f705b8a063b0433ff9270a94ec72f62803539d5200a42db43b37a598988b43e36'

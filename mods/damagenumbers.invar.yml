@@ -1,0 +1,16 @@
+id: damagenumbers
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/iWdXs2dQ/versions/UhaoW1JM/damagenumbers-1.4.1-neoforge.jar
+  file_name: damagenumbers-1.4.1-neoforge.jar
+  file_size: 38378
+  version_id: UhaoW1JM
+  hashes:
+    sha1: cf825d4e78c88fe5238d5798ed8bbbd77bebd6e3
+    sha512: a4abeacb9ec39952582a2242d3f77ee5d3f372dba0e861e06e4886a1c17206c3f5f38641dfa499756a5ebaef1bafb51a134cc8f8dd4079e0983d26f99f706321

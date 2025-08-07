@@ -1,0 +1,16 @@
+id: eternal-starlight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XvcfUGfB/versions/aE42o85c/eternalstarlight-0.5.1%2B1.21.1%2Bneoforge.jar
+  file_name: eternalstarlight-0.5.1+1.21.1+neoforge.jar
+  file_size: 44269269
+  version_id: aE42o85c
+  hashes:
+    sha1: '49d491d689e5a9906bb3042b88530e0ac3256ca1'
+    sha512: '343fcf3a607e23c5296f27264a9f31de65ca535aea838b7fe97ae8365bb7142be7e815cd23ff42148c354562c6f56b6b21ba917deae56517309d39f6c7740b5f'

@@ -1,0 +1,16 @@
+id: guard-villagers
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/H1sntfo8/versions/cXW6pA2s/guardvillagers-2.3.2-1.21.1.jar
+  file_name: guardvillagers-2.3.2-1.21.1.jar
+  file_size: 270102
+  version_id: cXW6pA2s
+  hashes:
+    sha1: e28be0f295ae4b7f0de24e8f394b3b43970a92f8
+    sha512: '0c0604c6ad112d09632202615d68d1a1128dc9cc545e3297bcf09ff092d5ba09c5b9dea034d10c2ba23d75bccad5c70e18af999bffe2e9341bebea231b3c10be'

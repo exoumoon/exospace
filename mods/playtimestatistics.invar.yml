@@ -1,0 +1,16 @@
+id: playtimestatistics
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/rsBa8ErW/versions/EIPY8kZ4/playtimestatistics-1.21.x-zh-CN-1.0.1.jar
+  file_name: playtimestatistics-1.21.x-zh-CN-1.0.1.jar
+  file_size: 186149
+  version_id: EIPY8kZ4
+  hashes:
+    sha1: '075b90825e222dc766cb5680d8fb5d0bffe82b8f'
+    sha512: ebbc9480d646ffc96929f4e3894b7b64692cb90e03a256c77baa1b33b5a083cb46ec063b372dc1ddb85a677d0acad00be32881798014d7d0b896c6e81a4d83fd

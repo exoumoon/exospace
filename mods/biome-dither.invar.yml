@@ -1,0 +1,16 @@
+id: biome-dither
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/xlybdB0E/versions/kH9he3Bu/puffish_biome_dither-0.1.0-1.21-neoforge.jar
+  file_name: puffish_biome_dither-0.1.0-1.21-neoforge.jar
+  file_size: 4378
+  version_id: kH9he3Bu
+  hashes:
+    sha1: ea71f20d90c389aec7eb8d7ef85c54bd8f60ff3c
+    sha512: ca5d489a6b68eb6f7b311c9f6f2e363e1937405e6632844a8db742a48079db0e6b748d9607f30f4d847c3cb7b80cf31dd183b7ac10349ecc1dfba8d622f821c7

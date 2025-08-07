@@ -1,0 +1,16 @@
+id: dynamiccrosshair
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ZcR9weSm/versions/A0S30Mxk/dynamiccrosshair-9.8%2B1.21.1-neoforge.jar
+  file_name: dynamiccrosshair-9.8+1.21.1-neoforge.jar
+  file_size: 510820
+  version_id: A0S30Mxk
+  hashes:
+    sha1: '8627000ce3e88ab6f263e017690dc1fcb6f49d36'
+    sha512: d7e93b848f525ddf28adc69dbec67ea8005a8a716cebad4e8ac51f70b91156e9edb6730fdf978a7d5429d8b7be59ec417b11d371537758e990895de231423d1f

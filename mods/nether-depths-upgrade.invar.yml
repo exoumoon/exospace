@@ -1,0 +1,16 @@
+id: nether-depths-upgrade
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/vI1QKJro/versions/otPmhdts/netherdepthsupgrade-3.1.8-1.21.jar
+  file_name: netherdepthsupgrade-3.1.8-1.21.jar
+  file_size: 585562
+  version_id: otPmhdts
+  hashes:
+    sha1: '6bc966cbfa01e52eac6c1b8efe6c4b63cfb65c42'
+    sha512: d06d6134a5b99b2c798cd5a5e32f74a40260245560e8c0a8b311bcaaee65dc7a2f6d2c8b023ac404701af3157a904e2d8e404e6b182a68539cd4d720c2dc1bb4
