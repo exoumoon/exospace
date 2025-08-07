@@ -1,0 +1,16 @@
+id: horseman
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/qIv5FhAA/versions/uwZF7AXl/horseman-neoforge-1.21.1-1.5.0.jar
+  file_name: horseman-neoforge-1.21.1-1.5.0.jar
+  file_size: 430435
+  version_id: uwZF7AXl
+  hashes:
+    sha1: '295b1c21bc4ea8ffab88fb6f80643f0b7e03cf74'
+    sha512: a027c0ceaeb9dd70948ddea12aabf767cf7b1d4116b3367f3a37ebdba22fb40e86e37e81a46b8af60a01bcea9cfe3029e8ac0d28fb690fb0bf0504ff07251aca

@@ -1,0 +1,16 @@
+id: chalk-mod
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/YWGP4Y1d/versions/pgGspa2K/chalk-1.6.10.jar
+  file_name: chalk-1.6.10.jar
+  file_size: 334476
+  version_id: pgGspa2K
+  hashes:
+    sha1: '6a1b2d27e25d9f5f369c20b1206f5491b8a7eab2'
+    sha512: '51ca8f7c3974d046007f59ae3703f2ce6304b149f2d2002ca084e868bedcdc73e53cfa1498e442abe34ede7aa15f668cdd7b66c7ee779724e83c466124e04634'

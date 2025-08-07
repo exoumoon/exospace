@@ -1,0 +1,16 @@
+id: exposure
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/hB899VmG/versions/wPQspUDc/exposure-neoforge-1.21.1-1.9.10.jar
+  file_name: exposure-neoforge-1.21.1-1.9.10.jar
+  file_size: 2170201
+  version_id: wPQspUDc
+  hashes:
+    sha1: '76abf0c3f41fb508932bf78042fd0dc2ce02950c'
+    sha512: '1f24226ce4dce073335a2598d3b63bc3aec72f7d0933e4d215060c3b25eca3b240a7063ee4c623a4d6cb1d6d2cfc33560fbed3f17eb7c21c2ca0f0b07615c86b'

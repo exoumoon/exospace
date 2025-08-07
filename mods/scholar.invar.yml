@@ -1,0 +1,16 @@
+id: scholar
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/fX4dIQCo/versions/U2cGTcD8/scholar-neoforge-1.21.1-1.1.7.jar
+  file_name: scholar-neoforge-1.21.1-1.1.7.jar
+  file_size: 746510
+  version_id: U2cGTcD8
+  hashes:
+    sha1: eb33640edad0b6cc9c2042031b997cc53001c768
+    sha512: '272c2be93e8f3dbced294775f06aadf4c67073cab27cc6d305462b9dc1895685b0c173e3018c59c2994975e83eddafe8e690943aeaeb50c058c8c0808347d6e2'

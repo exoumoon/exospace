@@ -1,0 +1,16 @@
+id: monobank
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/3bSjQuE3/versions/VlP56szi/monobank-neoforge-1.21.1-1.2.0.jar
+  file_name: monobank-neoforge-1.21.1-1.2.0.jar
+  file_size: 602658
+  version_id: VlP56szi
+  hashes:
+    sha1: '7f9bd2fe772c5536cb2d44a7357caa96a605c51f'
+    sha512: '0905432ea360b75788fbb01e49a7d1d4b3ac19ff084223edc6d5efd52aa1e7f8636b522fc6c131c5a845415c1f78cae89aabd1827a5081db94a312492b2c3596'
