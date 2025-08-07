@@ -1,0 +1,16 @@
+id: gravestone-x-curios-api-compat
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/NaiL8bPN/versions/HwlTVmVu/gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar
+  file_name: gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar
+  file_size: 14841
+  version_id: HwlTVmVu
+  hashes:
+    sha1: '6af464b8bc270c8d21fca7022051d42b6f736484'
+    sha512: '61e97e1af9b3439f66c8f79e68f9c8b0feec8ac6bf21f8f2e2d5c888534c4420b96e3067c7937accb42889e3146eadb90ee3a3daae3e89e41441849386805f4c'

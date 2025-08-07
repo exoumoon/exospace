@@ -1,0 +1,16 @@
+id: bsl-shaders
+category: shader
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Q1vvjJYV/versions/jRn8y2VF/BSL_v10.0.zip
+  file_name: BSL_v10.0.zip
+  file_size: 1121678
+  version_id: jRn8y2VF
+  hashes:
+    sha1: '82eb9981a31a4753bb5022b5f64d5ec4f6a27071'
+    sha512: '3ce31ae8c7242ae335de70df10f8147420a64ca372585c195d0b300f9e8c5b923f1e5bf2b8dddfcc741a0ce8e0235e079540101632837624787da84e9b52d72f'

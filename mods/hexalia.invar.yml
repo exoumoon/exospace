@@ -1,0 +1,16 @@
+id: hexalia
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/bkz5C0dQ/versions/x9xRlGjO/hexalia-1.2.7.jar
+  file_name: hexalia-1.2.7.jar
+  file_size: 1594018
+  version_id: x9xRlGjO
+  hashes:
+    sha1: f5d6a8318ac302d0ec0cb319ce341a99c740529e
+    sha512: '6519db20789a245ce9d8deddad7bc781129ca2a5741b8c7daa2dce56770434fb417453fa525b01cb87ee0ba2f53eb12579a519c2ce45b71631985f6379ea76c7'

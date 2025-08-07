@@ -1,0 +1,16 @@
+id: explosive-enhancement-forge
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar
+  file_name: explosiveenhancement-neoforge-1.21.1-1.1.2.jar
+  file_size: 86058
+  version_id: XVYkZnNg
+  hashes:
+    sha1: fee0be3ffe494189733ceaeb7163a38b03098ea5
+    sha512: '60ee5593d8b2cfeac306da6fcd6eeeebca672ef0f0f89e0e39250a2351117340f541648377d6f111bd36367bc994285d73e378d417845f5f85130e4a7778cb99'

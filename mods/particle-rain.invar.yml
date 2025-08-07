@@ -1,0 +1,16 @@
+id: particle-rain
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/nrikgvxm/versions/tVjgbLg5/particlerain-4.0.0-alpha.3%2B1.21.1-neoforge.jar
+  file_name: particlerain-4.0.0-alpha.3+1.21.1-neoforge.jar
+  file_size: 539024
+  version_id: tVjgbLg5
+  hashes:
+    sha1: '7bb0ed3bb373e9b39eca66105f2f88b3d09d3997'
+    sha512: f71ad82c123ee5f80d989c28f47ce67c8e60045d4060a611b52b2b6fd944873de09070f53bdb13c935802e4ba3f65a8c54b3a8ee19fc7cba1641cc5941546e2d

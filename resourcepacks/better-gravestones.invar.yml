@@ -1,0 +1,16 @@
+id: better-gravestones
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/fxZT7oSW/versions/f95rtuZX/Better%20Gravestones.zip
+  file_name: Better Gravestones.zip
+  file_size: 43030
+  version_id: f95rtuZX
+  hashes:
+    sha1: '463a5d8c36e3321f1ccf7f2ce665cb1473303abf'
+    sha512: ea30ce2376f6d1ecedd3aa97c58bfeeb8066b8c1a3444cda2ea5088ac1d12d27c2bcb00eb393837fb65ed92b5f2027758675089bf4c076f8d3b68f12cbd9fedc

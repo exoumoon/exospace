@@ -1,0 +1,16 @@
+id: particle-interactions
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/xFCYuAs8/versions/Js4y2r4d/eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar
+  file_name: eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar
+  file_size: 322743
+  version_id: Js4y2r4d
+  hashes:
+    sha1: '5d851a305cd25dc98593ebe2612c9855b685de97'
+    sha512: '4218eb6c842b687a2559bc2bc98437df5f105d77c49458f198942b34cb9f6a6cc748a57554f5be5647b753c73519a174a01c4525f603792dbfb2c7e132671df5'

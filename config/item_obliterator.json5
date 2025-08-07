@@ -7,15 +7,14 @@
     
     // WARN: Items here will be unusable completely.
     "blacklisted_items": [
-        "!industrialforegoing:infinity_.*",
-        "!industrialforegoing:.*laser.*",
+        "!oritech:.*prometheum.*",
 
-        "!mekanism:meka.*",
-        "!mekanism:atomic_disassembler",
-        "!mekanism:flamethrower",
         "!mekanism:free_runners.*",
         "!mekanism:jetpack.*",
-        "!mekanism:hdpe_elytra",
+        "!mekanism:meka.*",
+        "mekanism:atomic_disassembler",
+        "mekanism:flamethrower",
+        "mekanism:hdpe_elytra",
 
         "!tfmg:.*sword",
         "!tfmg:.*shovel",

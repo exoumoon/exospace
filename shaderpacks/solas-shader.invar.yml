@@ -1,0 +1,16 @@
+id: solas-shader
+category: shader
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/EpQFjzrQ/versions/XnmvIKj3/Solas%20Shader%20V2.9b.zip
+  file_name: Solas Shader V2.9b.zip
+  file_size: 1400396
+  version_id: XnmvIKj3
+  hashes:
+    sha1: '90c56056a51215e2b15726419eb2549b12d0b509'
+    sha512: ac5ff7b8df0984daca90be7700af4d7ca589e9d3136fdee33fb340087ab69ea9a1d6073ecfa050f9ccfffafdc1cc95316bbfd89bb60ac375870ff0aa5d002827
