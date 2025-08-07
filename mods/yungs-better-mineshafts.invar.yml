@@ -1,0 +1,16 @@
+id: yungs-better-mineshafts
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/HjmxVlSr/versions/Go3nbneL/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar
+  file_name: YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar
+  file_size: 493967
+  version_id: Go3nbneL
+  hashes:
+    sha1: '6a14e1d8201f068ca87ef8333e471c5378955906'
+    sha512: '8b01b386f53feeaa55f0c62697578b82e00501e45e428b2a68df6bda34efb6a4b3b4e3582abf13fe767ebcb61aef9368186f53c03999958bef38f31c41a7f8b2'
