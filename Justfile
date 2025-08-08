@@ -1,19 +1,27 @@
+DATASET := "wyrm-rpool/srv/mc-servers/exospace"
+
 default:
     @just --list
 
-start:
+# Refresh the modpack file, ensuring the server runs the right thing.
+update-pack:
     invar pack export
-    invar server start
+    
+# Start the server suite.
+start: update-pack
+    docker compose up --detach
     docker compose logs --follow
 
+# Stop the server suite.
+[confirm]
 stop:
-    invar server stop
+    docker compose down
 
+# Backup the server dataset via ZFS.
+backup:
+    sync
+    sudo zfs snapshot {{DATASET}}@`date +%Y%m%d-%H%M%S`-manual
+
+# Restart the server suite.
+[confirm]
 restart: stop start
-
-[confirm]
-reset-world: stop
-    rm -rf server/world server/server.properties
-
-[confirm]
-reset-server: reset-world restart
