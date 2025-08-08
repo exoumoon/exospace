@@ -1,0 +1,16 @@
+id: custom-nether-portal
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/2OCozLqc/versions/I68NwlOb/custom_nether_portals-neoforge-1.21.1-1.0.0.jar
+  file_name: custom_nether_portals-neoforge-1.21.1-1.0.0.jar
+  file_size: 45461
+  version_id: I68NwlOb
+  hashes:
+    sha1: '4a16a1b3ae645dfb6d987b5aa12ab58e0e956080'
+    sha512: fdafbe79953ca34936264a2693893179d1b9a0227e4b2650185988bbaf4d0412d98ae66e5d18f0cb06d4df579dfa8ee894207314feb163bd253d0b1eae994782

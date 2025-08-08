@@ -4,7 +4,7 @@ tags:
   main: null
   others: []
 environment:
-  client: unsupported
+  client: required
   server: required
 source: !Remote
   download_url: https://cdn.modrinth.com/data/NaiL8bPN/versions/HwlTVmVu/gravestonecurioscompat-1.21.1-NeoForge-3.0.1.jar

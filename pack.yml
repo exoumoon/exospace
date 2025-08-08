@@ -221,3 +221,21 @@ local_components:
   environment:
     client: required
     server: required
+- source_path: config/eg_particle_interactions_config.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/hardcorerevival-common.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/openpartiesandclaims-server.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required

@@ -1,0 +1,16 @@
+id: euphonium
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XH8cnjHW/versions/fXZDW81M/euphonium-1.0.3%2B1.21.jar
+  file_name: euphonium-1.0.3+1.21.jar
+  file_size: 44308407
+  version_id: fXZDW81M
+  hashes:
+    sha1: daae0b26547aa340caa342d5bc809c15aa2a7953
+    sha512: d481f4537fb41cffb05f814c6e9b2c33da169f5ead0826232f1abf3e753f0f08accf900f1795a6138ebb9b391d81de14196a089b7c49adaa1bb77b3a9afdbf7d

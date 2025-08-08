@@ -4,7 +4,7 @@ tags:
   main: null
   others: []
 environment:
-  client: unsupported
+  client: required
   server: required
 source: !Remote
   download_url: https://cdn.modrinth.com/data/OfKzpbRU/versions/u7WCvvxF/baguettelib-1.21.1-NeoForge-1.0.0.jar

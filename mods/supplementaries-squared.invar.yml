@@ -1,0 +1,16 @@
+id: supplementaries-squared
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/dCCkNFwE/versions/c0Olyzlr/suppsquared-1.21-1.2.10-neoforge.jar
+  file_name: suppsquared-1.21-1.2.10-neoforge.jar
+  file_size: 773988
+  version_id: c0Olyzlr
+  hashes:
+    sha1: bdd252f0bf72b72f99778caab1adda528407a5ee
+    sha512: d71d000a82c9b12927ff3ca6290411399933098b557756ebc80fb1b1e45c63c3e8c01c7fe25aa8015898ff05225d9e2cba7ae62bf4af36fba0516a0b6228bbb5
