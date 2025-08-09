@@ -5,8 +5,8 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - fabric
   - forge
+  - fabric
   - minecraft
 settings:
   vcs_mode: track_components
@@ -234,6 +234,66 @@ local_components:
     client: required
     server: required
 - source_path: config/openpartiesandclaims-server.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/gravestone-server.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/presencefootsteps/userconfig.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaerominimap-common.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaerominimap.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaerominimap_entities.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaeroworldmap-common.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaeroworldmap.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/forgematica.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: resourcepacks/torchmaster-remaster.zip
+  runtime_path: null
+  category: resourcepack
+  environment:
+    client: required
+    server: required
+- source_path: config/fallingtree.json
   runtime_path: null
   category: config
   environment:

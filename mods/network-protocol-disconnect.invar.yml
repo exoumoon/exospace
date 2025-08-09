@@ -1,0 +1,16 @@
+id: network-protocol-disconnect
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XFlUmiDF/versions/L6C96dV5/netprodis-1.1.0%2B1.21.4.jar
+  file_name: netprodis-1.1.0+1.21.4.jar
+  file_size: 3920
+  version_id: L6C96dV5
+  hashes:
+    sha1: d40fb0b1371bd12c077bbb6b221fd6a5e79597ee
+    sha512: ce0eb2a1bef681f642ec21b4283431aec74ce263465f30a1f4bf154c6255536847a7aa9f06a82a2c1a094eace4883965fec3607376b73ba212112d3624400c64

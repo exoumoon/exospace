@@ -1,0 +1,16 @@
+id: fragmentum
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/49C5QgTK/versions/fSK1b6R6/fragmentum-neoforge-1.21.1-0.0.13.jar
+  file_name: fragmentum-neoforge-1.21.1-0.0.13.jar
+  file_size: 85413
+  version_id: fSK1b6R6
+  hashes:
+    sha1: '28c7f5a14a0b25f395e275932235e97e9e27ffd9'
+    sha512: a7a1fb084297e9d978c9a67888b87bc915722a891ff90db0efa04fc36f2ca4d1bed56ec7e77ff315d8d20a22c65aa977f11954f33f580de4e07a331a00ddf4bc

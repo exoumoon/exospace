@@ -1,0 +1,16 @@
+id: bygone
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/P29i0RkN/versions/D05fANIx/bygone-neoforge-1.21.1-1.3.0.jar
+  file_name: bygone-neoforge-1.21.1-1.3.0.jar
+  file_size: 35863999
+  version_id: D05fANIx
+  hashes:
+    sha1: '45da49eaebf5f480fe02461b1b4d047edd08b9f6'
+    sha512: e73f00e651a766fe477ad35ce38a4131d5491dcefc445938500ca5155a6f008bbfc27694187b7cd9fad66f5cee19349d68e36eaa68460098fe0ea9d69f84ae86

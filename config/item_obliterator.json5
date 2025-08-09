@@ -8,6 +8,8 @@
     // WARN: Items here will be unusable completely.
     "blacklisted_items": [
         "!oritech:.*prometheum.*",
+        "oritech:promethium_axe",
+        "oritech:promethium_pickaxe",
 
         "!mekanism:free_runners.*",
         "!mekanism:jetpack.*",

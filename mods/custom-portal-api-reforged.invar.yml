@@ -1,0 +1,16 @@
+id: custom-portal-api-reforged
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/VepYPOdy/versions/lowfyLfO/cpapireforged-neo-1.21.1-1.2.2.jar
+  file_name: cpapireforged-neo-1.21.1-1.2.2.jar
+  file_size: 94146
+  version_id: lowfyLfO
+  hashes:
+    sha1: '9535f872717c530b9638fe49a8fcac9b58b3cc54'
+    sha512: c7ec668bb6b67e3855eaf1175caa0eac77101412af10747b8a118134adf86f43d849b7a1523768b5c540debaad2d97b6009db14e280dd35370d420f289b3f9c0

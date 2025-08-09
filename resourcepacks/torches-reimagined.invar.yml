@@ -1,0 +1,16 @@
+id: torches-reimagined
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/pfnQDIWs/versions/DkBAbImU/%C2%A7eTorches%C2%A78-%C2%A7eReimagined%C2%A70_%C2%A78%5Bv1.5%5D%C2%A70.zip
+  file_name: §eTorches§8-§eReimagined§0_§8[v1.5]§0.zip
+  file_size: 156967
+  version_id: DkBAbImU
+  hashes:
+    sha1: '796b06d2923fa04d272e7b7d5611e371e8f0a2fc'
+    sha512: d52afa7aa703de109539e7facc481b5882fac652bf69ded0a31feba3f8a5172fb13ae76fb9fe780b1dfea115c7152b1c0389e03b96e1c1744076a100f8c0f597

@@ -1,0 +1,16 @@
+id: ars-elixirum
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/oYe4cXFm/versions/BWFdlSBY/elixirum-neoforge-1.21.1-0.2.2.jar
+  file_name: elixirum-neoforge-1.21.1-0.2.2.jar
+  file_size: 12448858
+  version_id: BWFdlSBY
+  hashes:
+    sha1: '204ef1e00e1ea27bc8fff320dda19da4c668da89'
+    sha512: '0a20deba725570ea683b200e36e7e1dceca2c481914164683b82a484366b0faa443b1461eeca77531241f8a8ecbf75c688f1778264083647b7083130621d72f7'

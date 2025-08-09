@@ -1,0 +1,16 @@
+id: jakes-build-tools
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/DosZdmJF/versions/5sNJmsho/jakes-build-tools-2.0.1.4-%281.21.1%29.jar
+  file_name: jakes-build-tools-2.0.1.4-(1.21.1).jar
+  file_size: 423895
+  version_id: '5sNJmsho'
+  hashes:
+    sha1: '2c0a8a2dd3d424d70f00ae2c411f2c711e00a5ab'
+    sha512: e4acf46f57aaf1804b25dbaae2baa5cc3a767f809085d4a93e5e8b277bf3b6c22181301c8b51c39dd52fe1d6a54f5930fd03d4b5ba23807e7414eacff9e35cf9

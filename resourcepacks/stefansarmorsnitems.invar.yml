@@ -1,0 +1,16 @@
+id: stefansarmorsnitems
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/SoHN1bmW/versions/EwYhX6Ti/Stefan%27sArmors%27N%27Items1.34.zip
+  file_name: Stefan'sArmors'N'Items1.34.zip
+  file_size: 1339713
+  version_id: EwYhX6Ti
+  hashes:
+    sha1: '67fccbb3b5e23842e726d94e29e18ab754da3d25'
+    sha512: '3b6908457603dc2c65c46a2f46d5a1f3791cba6ce58cd9dd981be4e1a0d98c2b7c2963212bd30e1f14545a9b3fc758b87827dad2d1a2de39401309cab10be2e2'

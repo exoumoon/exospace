@@ -1,0 +1,16 @@
+id: ibo
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gmUU3UdW/versions/3Ug3M05E/ibo-3.0.0-neoforge-1.21.jar
+  file_name: ibo-3.0.0-neoforge-1.21.jar
+  file_size: 42189
+  version_id: '3Ug3M05E'
+  hashes:
+    sha1: e9def6bc8d13b06ec22f9bb973c008f8089d0267
+    sha512: '6c9131e2950bbf1226ff1d4b9e3bc5e422699b2fac8495ec722de6b99c52023311fdfc9c1713cf4a693ec53a0fb4b70d9d2798c5a92d814e13234ced78ca65f8'
