@@ -1,0 +1,16 @@
+id: croptopia-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/z2Ihxkgp/versions/hJg4PBcW/croptopiadelight-1.0.1.jar
+  file_name: croptopiadelight-1.0.1.jar
+  file_size: 96487
+  version_id: hJg4PBcW
+  hashes:
+    sha1: b3d98abfd8e61b2f9dd8d37970c74cd918d0811c
+    sha512: '96f2b8a3b12cb0dc40441df44a04fd5a95f7cdc7ec021ac37b411be0cb6ec41fe11001741054bd8200e2dd18a6da54c2183fbd4bf4301660000cdd6ec0798fb7'

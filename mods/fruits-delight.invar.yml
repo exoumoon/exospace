@@ -1,0 +1,16 @@
+id: fruits-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/g6sbyCTu/versions/O5Jcrl5j/fruitsdelight-1.2.9.jar
+  file_name: fruitsdelight-1.2.9.jar
+  file_size: 1913164
+  version_id: O5Jcrl5j
+  hashes:
+    sha1: '2235843ee14d9993202a872397f3bf7108d9bd8b'
+    sha512: '099534972426d3fd842cbad1e78820d217efaca16cf44e8d513b850d1e1913e45dfa2266843b965521735499d1edd9d57081e84ed04a26749ab069ba0248a56f'

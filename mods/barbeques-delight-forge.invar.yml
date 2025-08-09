@@ -1,0 +1,16 @@
+id: barbeques-delight-forge
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/rtu7uERF/versions/eS5ZBlEc/barbequesdelight-1.2.2.jar
+  file_name: barbequesdelight-1.2.2.jar
+  file_size: 846060
+  version_id: eS5ZBlEc
+  hashes:
+    sha1: eaa7fe3489e2221980387d2a29c459dd60aaa3e8
+    sha512: '5d0dfcf4892526043b0098ffff57beed2a21f06b7705ee95c470ec41f7f74bdde9111838675af2b51d4531d54cda54378fdb3fe654aef87ec705478555e13171'

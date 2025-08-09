@@ -1,0 +1,16 @@
+id: hearth-and-harvest
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/8EEEXOzj/versions/npi1kmbs/hearthandharvest-1.21.1-1.0.11.jar
+  file_name: hearthandharvest-1.21.1-1.0.11.jar
+  file_size: 1101972
+  version_id: npi1kmbs
+  hashes:
+    sha1: '6c20e7f6485b1d51ff592164e4f0fa5fb9eb0c67'
+    sha512: e9787550e6c098294328d58d68b5e9eae68483596c1b5a43eca8b922cb2df1119a6a7e3761cc14eea12e2b4cdf77c60ab22af2d09f365f8c565f0c6bc90379ce

@@ -1,6 +1,6 @@
 {
 	"trees": {
-		"allowedLogs": ["#forge:stripped_logs"],
+		"allowedLogs": ["#c:stripped_logs"],
 		"deniedLogs": [],
 		"allowedLeaves": [],
 		"allowedNonDecayLeaves": [],

@@ -1,0 +1,16 @@
+id: crate-delight-croptopia
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/W6Xlp26Z/versions/nmXLo1IW/cratedelightcroptopia-24.12.27-1.21-neoforge.jar
+  file_name: cratedelightcroptopia-24.12.27-1.21-neoforge.jar
+  file_size: 250775
+  version_id: nmXLo1IW
+  hashes:
+    sha1: '47c973ee268ea774228488d68e5a920ca6b93b8e'
+    sha512: '75a1b461da3548232bf752a93be1021a8f812a440aae6b648b5b0ad8944c199681d6c038037f4d5a85635c37892728c539d94a7a6cddeaa5fe38ae3e9900ef3c'

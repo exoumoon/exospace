@@ -1,0 +1,16 @@
+id: crabbers-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gBGdVBJy/versions/ptG64SYO/crabbersdelight-1.21.1-1.1.10.jar
+  file_name: crabbersdelight-1.21.1-1.1.10.jar
+  file_size: 381573
+  version_id: ptG64SYO
+  hashes:
+    sha1: f8ccbe1e21e3a65a398e32934f51278f5dc9ce9d
+    sha512: '1e7aee54a97a71e6e55cdad6fb45e097f3bb25afbe6c91b62696b8ac5df7e471e3b0f089b4202f9a64efbd485ed2981d5f2ddafcef37d3e69fc3e770e4c2b07f'

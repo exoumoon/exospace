@@ -1,0 +1,16 @@
+id: enders-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/2uEhdGKt/versions/eCFhgqVV/endersdelight-neoforge-1.21.1-1.1.0.jar
+  file_name: endersdelight-neoforge-1.21.1-1.1.0.jar
+  file_size: 174766
+  version_id: eCFhgqVV
+  hashes:
+    sha1: '9f2762e0d871eb0b0cae7d83807d06be0917cc14'
+    sha512: '1e8f0f585bcddaa2c1194a28dc4af1285ceb9c72cfe7bda841a7d7d0ad2ff2903a82f6dca614e097d5b0212d0dfb2dcf1f07c9a89273003ec4eedc3b911bce86'

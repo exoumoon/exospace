@@ -1,0 +1,16 @@
+id: my-nethers-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/O53VhQoZ/versions/XZlkMc8h/MyNethersDelight-1.21.1-1.8.jar
+  file_name: MyNethersDelight-1.21.1-1.8.jar
+  file_size: 757789
+  version_id: XZlkMc8h
+  hashes:
+    sha1: d147bd86498508904cf5485d00da27a33033b219
+    sha512: '09cd341b68bef3b10d4db8c04cd14dbf0fd4fdef0d45f16a37c3348db3fa81824e7a844c755dbe61b818ba6885c4059a0b8bd416094a12a9881000fea3319aaf'

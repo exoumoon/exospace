@@ -6,8 +6,8 @@ instance:
   loader_version: '21.1.194'
   allowed_foreign_loaders:
   - forge
-  - fabric
   - minecraft
+  - fabric
 settings:
   vcs_mode: track_components
 local_components:
@@ -294,6 +294,24 @@ local_components:
     client: required
     server: required
 - source_path: config/fallingtree.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: mods/Aquaculture-1.21.1-2.7.14.jar
+  runtime_path: null
+  category: mod
+  environment:
+    client: required
+    server: required
+- source_path: mods/croptopia_1.21.1_NEO-FORGE-4.2.1.jar
+  runtime_path: null
+  category: mod
+  environment:
+    client: required
+    server: required
+- source_path: config/ping-wheel.json
   runtime_path: null
   category: config
   environment:

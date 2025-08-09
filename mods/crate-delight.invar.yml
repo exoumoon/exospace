@@ -1,0 +1,16 @@
+id: crate-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9rlXSyLg/versions/jFuhwbQM/cratedelight-25.08.08-1.21-neoforge.jar
+  file_name: cratedelight-25.08.08-1.21-neoforge.jar
+  file_size: 167493
+  version_id: jFuhwbQM
+  hashes:
+    sha1: '3dce2c6a8fd72b615f43ea240f962aa7b5e3a6a7'
+    sha512: '91c5f517d586fcc66f219f74392cdf5047bfa7f3283316823e5c6bb48304545e0fb7fd5a3fe4d42400113fd2844dd935cc47b121e06e87d5d43bc4890e4ed322'

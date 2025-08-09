@@ -1,0 +1,16 @@
+id: ends-delight
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/yHN0njMr/versions/YxSK1qNm/ends_delight-2.5.1%2Bneoforge.1.21.1.jar
+  file_name: ends_delight-2.5.1+neoforge.1.21.1.jar
+  file_size: 263222
+  version_id: YxSK1qNm
+  hashes:
+    sha1: '22b63e1c852fbbedb9f7add64990fd9f8eca0787'
+    sha512: c36b4a7ac0d55bf18506846ae01dbfb3d89b9333d334d309319346b632aac55441240f8b766ab52b1e497d96d47a5ad8d357af7f5a763473f05ce0fe1b861814
