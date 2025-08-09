@@ -1,0 +1,16 @@
+id: ars-nouveau
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/TKB6INcv/versions/xIV96Oiu/ars_nouveau-1.21.1-5.10.3.jar
+  file_name: ars_nouveau-1.21.1-5.10.3.jar
+  file_size: 20236600
+  version_id: xIV96Oiu
+  hashes:
+    sha1: '5efb91e75e322454156984ba548cb43e98b4b397'
+    sha512: a6d831e592b8b5f8e4f35ee63c5f7f7a77acfd7c103d9f40aaf0a3bc9d8d8ab0563435b61032dfb9c9dc5459414d7492439a905c183a5ff3614bfabf03ca41f2

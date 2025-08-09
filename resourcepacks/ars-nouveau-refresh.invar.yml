@@ -1,0 +1,16 @@
+id: ars-nouveau-refresh
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/HuL3Q7xv/versions/lJC7bpij/Ars%20Nouveau%20Refresh%201.1.0%20.zip
+  file_name: Ars Nouveau Refresh 1.1.0 .zip
+  file_size: 131631
+  version_id: lJC7bpij
+  hashes:
+    sha1: '47edda7cecb78426365acdcebbeb95d579eb22a0'
+    sha512: b2ff34b2163c53a8a207b53d41e36bb8d02fcbebd8bb107bd0f25cd1e8ca2914517f02952b6195c10db1bf12752060cbf3c95c6162b3092e6d2e604658ae05d1

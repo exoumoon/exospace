@@ -1,0 +1,16 @@
+id: ars-additions
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/GYK6Gk8R/versions/VS35BpPs/ars_additions-1.21.1-21.2.2.jar
+  file_name: ars_additions-1.21.1-21.2.2.jar
+  file_size: 1403313
+  version_id: VS35BpPs
+  hashes:
+    sha1: '4db5d434a6239306feb1e1b80670352370a9c177'
+    sha512: '768baf58d4463bc7b4d76427aa6bd72834f479edfd0284c6d0f3cb8119475d7322a624b1f0fa7b06bd4735f608adacbe5d1443109341ee540e9429618579940f'

@@ -1,0 +1,16 @@
+id: ars-nouveau-brass-ified-create-style-anbics
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Fc1z2stR/versions/QDkx5h7W/Ars-Nouveau-Brass-ified-Create-Style---ANBICS.zip
+  file_name: Ars-Nouveau-Brass-ified-Create-Style---ANBICS.zip
+  file_size: 662506
+  version_id: QDkx5h7W
+  hashes:
+    sha1: d3be4449d801800ea0275ea8c6ac1af837b21838
+    sha512: '0ce9c92f640a832265c26bd3c12998da0c6da0eeb5a11fd35612c71f6ad0012e7e9aa0aac85af7a24a80699f69b23e61c0f366dc9736db626be87329a7cb4f9c'
