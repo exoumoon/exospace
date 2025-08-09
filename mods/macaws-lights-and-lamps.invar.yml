@@ -1,0 +1,16 @@
+id: macaws-lights-and-lamps
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/w4an97C2/versions/iqA6aZjj/mcw-lights-1.1.2-mc1.21.1neoforge.jar
+  file_name: mcw-lights-1.1.2-mc1.21.1neoforge.jar
+  file_size: 517577
+  version_id: iqA6aZjj
+  hashes:
+    sha1: '9cd16bf9393e8754eb10ddb89b5b3a8b228ce2b4'
+    sha512: de9d1b636de31ea6aa12589d6db0bbe706c8b3953fcd8d60aa163eb044d6919ee4e21abeca099b07f489789236b108e15cf39144ec9860b068e3598228a4d2a3

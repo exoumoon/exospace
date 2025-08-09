@@ -1,0 +1,16 @@
+id: macaws-doors
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/kNxa8z3e/versions/4EOKyL43/mcw-doors-1.1.2-mc1.21.1neoforge.jar
+  file_name: mcw-doors-1.1.2-mc1.21.1neoforge.jar
+  file_size: 1193693
+  version_id: '4EOKyL43'
+  hashes:
+    sha1: bb6b47cf7b32b6b5737138c2cd1a2e4d8e1d8d49
+    sha512: '8589d05dca9b39e49d1cc4f18eedccc990ad9670eb1089e6c20f6f3a9384c5968b0147b94c824a5c2355957d34f7be1058fda1525d21cdc350c8422b8734ac39'

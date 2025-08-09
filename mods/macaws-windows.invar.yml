@@ -1,0 +1,16 @@
+id: macaws-windows
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/C7I0BCni/versions/pwwamkcJ/mcw-windows-2.4.0-1.21.1neoforge.jar
+  file_name: mcw-windows-2.4.0-1.21.1neoforge.jar
+  file_size: 1263259
+  version_id: pwwamkcJ
+  hashes:
+    sha1: ea1c614e43b0b2de4f35673a5cc9cd56668ae6a9
+    sha512: c8ef5bd1a9382b76bce3f043871db2af6ee854224887c76a5d2984eb94e2e079cccc889031a12458b3031893308f123de4abe1355d7f70703a821c9dac0e021d
