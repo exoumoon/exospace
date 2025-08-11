@@ -31,11 +31,14 @@ services:
       RCON_CMDS_FIRST_CONNECT: |
         /whitelist off
         /op mxxntype
+        /chunky pause
+      RCON_CMDS_LAST_DISCONNECT: |-
+        /chunky continue
       MOTD: invar-server/0.7.0 | exospace | 1.21.1
       ENABLE_AUTOPAUSE: false
       MAX_PLAYERS: 8
       TYPE: MODRINTH
-    restart: no
+    restart: always
     networks:
       - monitoring
     volumes:

@@ -1,13 +1,13 @@
 name: exospace
-version: '0.2.0'
+version: '0.3.0'
 instance:
   minecraft_version: '1.21.1'
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
   - forge
-  - minecraft
   - fabric
+  - minecraft
 settings:
   vcs_mode: track_components
 local_components:
@@ -151,12 +151,6 @@ local_components:
     server: unsupported
 - source_path: config/fancymenu/options.txt
   runtime_path: null
-  category: config
-  environment:
-    client: required
-    server: unsupported
-- source_path: options.txt
-  runtime_path: options.txt
   category: config
   environment:
     client: required

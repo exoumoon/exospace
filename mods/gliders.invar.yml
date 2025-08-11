@@ -1,0 +1,16 @@
+id: gliders
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XiC6HzoU/versions/XMduptKZ/gliders-1.21.1-neoforge-1.1.8.jar
+  file_name: gliders-1.21.1-neoforge-1.1.8.jar
+  file_size: 677846
+  version_id: XMduptKZ
+  hashes:
+    sha1: f68e8fa4fb1a126cfb660df32fb009b2cc900c6b
+    sha512: d9ec07ce20f84648dfedf0ec23b0364138eea3db60e87d332ed6e05762673340e890a79da82efd6209eeb36ed3a31dd70b6916c586311e8a2ffe6f47aec211af
