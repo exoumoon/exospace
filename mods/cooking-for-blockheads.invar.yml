@@ -1,0 +1,16 @@
+id: cooking-for-blockheads
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/vJnhuDde/versions/ViSHFAF9/cookingforblockheads-neoforge-1.21.1-21.1.16.jar
+  file_name: cookingforblockheads-neoforge-1.21.1-21.1.16.jar
+  file_size: 1245623
+  version_id: ViSHFAF9
+  hashes:
+    sha1: '77d27f61ec1e1e8a37b9d5f395f193d8de8fe760'
+    sha512: '84b524460c6963afa71916bbca1e25fe5d2c6e53c2899ce3caac1813cda5b945ad450e47504b8402b44d5dde3d9a8063ef0b3ee43d2a2bae5f8f8f688bf9cf76'
