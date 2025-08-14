@@ -13,6 +13,7 @@ services:
     container_name: exospace
     ports:
     - '25565:25565'
+    - "24454:24454/udp" # SVC
     environment:
       SEED: 0
       MAX_TICK_TIME: 180000
