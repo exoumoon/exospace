@@ -1,0 +1,16 @@
+id: eco-stack-manager
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/YfTOSsIw/versions/hiMa9pQd/eco_stack_manager-neoforge-1.21.1-1.4.1.jar
+  file_name: eco_stack_manager-neoforge-1.21.1-1.4.1.jar
+  file_size: 102353
+  version_id: hiMa9pQd
+  hashes:
+    sha1: '3a7abdd6198d09736a4722e6d9e0a5b7be906790'
+    sha512: '183fe4fd9c8e2b37b16d64399e35d5c4d4bbe51d766706e097e139214b98425da149f780376493785051a4673aa30ab19322945e25e9bb70066527ff58b599c1'
