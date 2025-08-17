@@ -1,0 +1,16 @@
+id: realplayer
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/DejhJNPw/versions/XeruK8eb/realplayer-1.0-SNAPSHOT%285%29.jar
+  file_name: realplayer-1.0-SNAPSHOT(5).jar
+  file_size: 11934
+  version_id: XeruK8eb
+  hashes:
+    sha1: d1963c0b4968647d08d967152c14411ef3ed30cf
+    sha512: '9bcd3511ebc00bd7d0ef034e2f62f85512d27af9c29cc8668596b285573fb1cfde897a219e4c111890676611825373f1f5f83e29342e2863afbd83d14f40d164'

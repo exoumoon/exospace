@@ -1,0 +1,16 @@
+id: ancient-reforging
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/S8F0jey8/versions/NfN1TPgR/ancientreforging-1.4.1.jar
+  file_name: ancientreforging-1.4.1.jar
+  file_size: 290832
+  version_id: NfN1TPgR
+  hashes:
+    sha1: '138593d865ef115dc904c06a82f7038e2b76dec4'
+    sha512: f81b219fdb56af320f88c7c3d27653ad88e93c065d05b14758b2c49e5db10b3fadd1bad86b9ea1c89bc89839de2bf9261b504e6edcf10499f944f4c2f6e5acac

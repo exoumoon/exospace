@@ -1,0 +1,16 @@
+id: attributefix
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/lOOpEntO/versions/a0oKmnPU/attributefix-neoforge-1.21.1-21.1.2.jar
+  file_name: attributefix-neoforge-1.21.1-21.1.2.jar
+  file_size: 19798
+  version_id: a0oKmnPU
+  hashes:
+    sha1: c6df25744d52abca410c40ec6f29c0156ba50885
+    sha512: bbfe003ed29a2bb0b4dd0a61d64b411748c9f5cb48ccbfd954dd2d813c452c540638749b6f19e7472e44ae1e966a3629b135190ffba3099cfdf45355618c0b97
