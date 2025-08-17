@@ -6,8 +6,8 @@ instance:
   loader_version: '21.1.194'
   allowed_foreign_loaders:
   - forge
-  - fabric
   - minecraft
+  - fabric
 settings:
   vcs_mode: track_components
 local_components:
@@ -308,6 +308,12 @@ local_components:
 - source_path: config/ping-wheel.json
   runtime_path: null
   category: config
+  environment:
+    client: required
+    server: required
+- source_path: mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar
+  runtime_path: null
+  category: mod
   environment:
     client: required
     server: required
