@@ -1,0 +1,16 @@
+id: l2-complements
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/oPrh2Lz3/versions/jFRVb3lP/l2complements-3.0.16.jar
+  file_name: l2complements-3.0.16.jar
+  file_size: 1074229
+  version_id: jFRVb3lP
+  hashes:
+    sha1: cc00b94c072aecdc7395570a279fabda52e57900
+    sha512: '164308b452a3015a6f95489caa26e5e58006ae37f0a19732743b68d0e0d6a1701538234a9f6028587fc50e6d47b6b5e256eb75e7da95b0473f8b47cc54cd1086'

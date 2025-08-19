@@ -1,0 +1,16 @@
+id: l2hostility
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/CbV689EN/versions/KlvJggqG/l2hostility-3.0.12.jar
+  file_name: l2hostility-3.0.12.jar
+  file_size: 2275731
+  version_id: KlvJggqG
+  hashes:
+    sha1: c0b9898a20191469ac812a307f0fecbc32b6f6ad
+    sha512: be0437ac881fcd8538c3f643907d78fa879037a3261ae9eb7d1a5b415522d5b21b58a21b064547fa989ab7a9d400f5f0ba0dff84ecacfd58bfa99c4cdddd59b1

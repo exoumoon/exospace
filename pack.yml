@@ -5,9 +5,9 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
-  - forge
   - minecraft
   - fabric
+  - forge
 settings:
   vcs_mode: track_components
 local_components:
@@ -101,30 +101,6 @@ local_components:
   environment:
     client: required
     server: required
-- source_path: config/fancymenu/assets/141139-aestheticwp.png
-  runtime_path: null
-  category: config
-  environment:
-    client: required
-    server: unsupported
-- source_path: config/fancymenu/assets/exospace.png
-  runtime_path: null
-  category: config
-  environment:
-    client: required
-    server: unsupported
-- source_path: config/fancymenu/customization/title_screen_layout.txt
-  runtime_path: null
-  category: config
-  environment:
-    client: required
-    server: unsupported
-- source_path: config/fancymenu/customization/universal_layout.txt
-  runtime_path: null
-  category: config
-  environment:
-    client: required
-    server: unsupported
 - source_path: shaderpacks/bliss-shader-unstable.zip
   runtime_path: null
   category: shader
@@ -134,24 +110,6 @@ local_components:
 - source_path: shaderpacks/bliss-shader-unstable.zip.txt
   runtime_path: null
   category: shader
-  environment:
-    client: required
-    server: unsupported
-- source_path: config/fancymenu/custom_gui_screens.txt
-  runtime_path: null
-  category: config
-  environment:
-    client: required
-    server: unsupported
-- source_path: config/fancymenu/customizablemenus.txt
-  runtime_path: null
-  category: config
-  environment:
-    client: required
-    server: unsupported
-- source_path: config/fancymenu/options.txt
-  runtime_path: null
-  category: config
   environment:
     client: required
     server: unsupported
@@ -314,6 +272,36 @@ local_components:
 - source_path: mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar
   runtime_path: null
   category: mod
+  environment:
+    client: required
+    server: required
+- source_path: mods/apothic_cataclysm-1.2.0.jar
+  runtime_path: null
+  category: mod
+  environment:
+    client: required
+    server: required
+- source_path: mods/irons_apothic-1.6.1.jar
+  runtime_path: null
+  category: mod
+  environment:
+    client: required
+    server: required
+- source_path: resourcepacks/excalibur-apotheosis-support.zip
+  runtime_path: null
+  category: resourcepack
+  environment:
+    client: required
+    server: required
+- source_path: config/l2configs/l2tabs-client.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: resourcepacks/new-default-plus.zip
+  runtime_path: null
+  category: resourcepack
   environment:
     client: required
     server: required

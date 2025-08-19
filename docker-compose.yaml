@@ -29,12 +29,16 @@ services:
       ONLINE_MODE: false
       MODRINTH_MODPACK: /data/modpack.mrpack
       MEMORY: '16G'
+      RCON_CMDS_STARTUP:  |-
+        /team add NEW
+        /team add OLD
+      RCON_CMDS_ON_CONNECT: |-
+        /team join NEW @a[team=]
+        /hostility player @a[team=NEW] difficulty base set 200
+        /team join OLD @a[team=NEW]
       RCON_CMDS_FIRST_CONNECT: |
         /whitelist off
         /op mxxntype
-        /chunky pause
-      RCON_CMDS_LAST_DISCONNECT: |-
-        /chunky continue
       MOTD: invar-server/0.7.0 | exospace | 1.21.1
       ENABLE_AUTOPAUSE: false
       MAX_PLAYERS: 8

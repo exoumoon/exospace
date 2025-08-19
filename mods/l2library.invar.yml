@@ -1,0 +1,16 @@
+id: l2library
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4Vh3BQ3F/versions/4Ef9VUQX/l2library-3.0.7.jar
+  file_name: l2library-3.0.7.jar
+  file_size: 973718
+  version_id: '4Ef9VUQX'
+  hashes:
+    sha1: b72c6914319ce43b272b2e309ce50fd979bb617a
+    sha512: '785c636a265cc2cefa0cf80c669e3f027106731668f97d88048cbf63ebea03a2bec73eec713d32058702572e4f6109e0ebec2dad48fd2816f02232d1642747e9'

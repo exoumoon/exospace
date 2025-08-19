@@ -1,0 +1,16 @@
+id: enchanted-covers
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/qLCp6xdi/versions/pazIKQ8V/EnchantedCovers.zip
+  file_name: EnchantedCovers.zip
+  file_size: 169870
+  version_id: pazIKQ8V
+  hashes:
+    sha1: a55779390c0518bf1f8ee3f1a1bb376f68234cc4
+    sha512: c0edfce30d739b736a2791369d16fc2be44c1fe1f304cf36e15c99d5a0042737cc792d5cde5169eb320570b5c810667f9bd7665a6b3fbaa60d0e49834422ab78

@@ -8,6 +8,7 @@
 		"mod_resources",
 		"moonlight:mods_dynamic_assets",
 
+		"file/new-default-plus.zip",
 		"file/excal.zip",
 		"file/clarent.zip",
 		"file/fresh-animations.zip",
@@ -34,7 +35,7 @@
 		"file/create-sophisticated-backpacks.zip",
 		"file/create-computercraft.zip",
 		"file/croptopia-croppin-refresh!.zip",
-		"file/apotheotic-tweaks.zip",
+		"file/excalibur-apotheosis-support.zip",
 		"file/ars-nouveau-brass-ified-create-style-anbics.zip",
 		"file/ars-nouveau-refresh.zip",
 		"file/refined-cats-vanilla.zip",
@@ -50,6 +51,7 @@
 		"file/torchmaster-remaster.zip",
 		"file/torches-reimagined.zip",
 		"file/stefansarmorsnitems.zip",
+		"file/enchanted-covers.zip",
 		"file/twc.zip",
 
 		"file/tras-fresh-player.zip",
@@ -87,6 +89,7 @@
 		},
 
 		"everything": [
+			"file/new-default-plus.zip",
 			"file/excal.zip",
 			"file/clarent.zip",
 			"file/fresh-animations.zip",
@@ -113,7 +116,7 @@
 			"file/create-sophisticated-backpacks.zip",
 			"file/create-computercraft.zip",
 			"file/croptopia-croppin-refresh!.zip",
-			"file/apotheotic-tweaks.zip",
+			"file/excalibur-apotheosis-support.zip",
 			"file/ars-nouveau-brass-ified-create-style-anbics.zip",
 			"file/ars-nouveau-refresh.zip",
 			"file/refined-cats-vanilla.zip",
@@ -129,6 +132,7 @@
 			"file/torchmaster-remaster.zip",
 			"file/torches-reimagined.zip",
 			"file/stefansarmorsnitems.zip",
+			"file/enchanted-covers.zip",
 			"file/twc.zip",
 
 			"file/tras-fresh-player.zip",
