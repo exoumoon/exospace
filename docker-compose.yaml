@@ -34,7 +34,7 @@ services:
         /team add OLD
       RCON_CMDS_ON_CONNECT: |-
         /team join NEW @a[team=]
-        /hostility player @a[team=NEW] difficulty base set 200
+        /hostility player @a[team=NEW] difficulty base set 100
         /team join OLD @a[team=NEW]
       RCON_CMDS_FIRST_CONNECT: |
         /whitelist off
