@@ -28,13 +28,13 @@ services:
       ALLOW_FLIGHT: true
       ONLINE_MODE: false
       MODRINTH_MODPACK: /data/modpack.mrpack
-      MEMORY: '16G'
+      MEMORY: '12G'
       RCON_CMDS_STARTUP:  |-
         /team add NEW
         /team add OLD
       RCON_CMDS_ON_CONNECT: |-
         /team join NEW @a[team=]
-        /hostility player @a[team=NEW] difficulty base set 100
+        /hostility player @a[team=NEW] difficulty base set 30
         /team join OLD @a[team=NEW]
       RCON_CMDS_FIRST_CONNECT: |
         /whitelist off
