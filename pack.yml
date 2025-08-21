@@ -5,9 +5,9 @@ instance:
   loader: neoforge
   loader_version: '21.1.194'
   allowed_foreign_loaders:
+  - forge
   - minecraft
   - fabric
-  - forge
 settings:
   vcs_mode: track_components
 local_components:
@@ -302,6 +302,12 @@ local_components:
 - source_path: resourcepacks/new-default-plus.zip
   runtime_path: null
   category: resourcepack
+  environment:
+    client: required
+    server: required
+- source_path: mods/databank-hotfix-1.2.1.jar
+  runtime_path: null
+  category: mod
   environment:
     client: required
     server: required
