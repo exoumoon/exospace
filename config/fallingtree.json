@@ -29,7 +29,7 @@
 		"trunkLootPercentage": 1.0
 	},
 	"tools": {
-		"allowed": [],
+		"allowed": ["#minecraft:pickaxes"],
 		"denied": [],
 		"durabilityMode": "NORMAL",
 		"ignoreTools": false,

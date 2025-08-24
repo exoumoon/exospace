@@ -1,0 +1,16 @@
+id: just-enough-mekanism-multiblocks
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/kRaE85yQ/versions/g0Exmy3H/JustEnoughMekanismMultiblocks-1.21.1-7.7.jar
+  file_name: JustEnoughMekanismMultiblocks-1.21.1-7.7.jar
+  file_size: 137612
+  version_id: g0Exmy3H
+  hashes:
+    sha1: ff4e9eded15a0118f3cf1182cab2d1cd137d89af
+    sha512: '32cb1705b832cadc569c88d3aed11202d27d0d458ff2b88b70c46ccd832d112d7b3f25a8598e4c5533c07a73aa4ca17033d6245b15282b26bdb4988bffa40855'
